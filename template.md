@@ -15,6 +15,8 @@ placeholder
 ### オプション
 - placeholder
 
+* * *
+
 仕様
 -------
 ### 価格
