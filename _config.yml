@@ -1,0 +1,8 @@
+
+# title: title(placeholder)
+# description: description(placeholder)
+lang: ja
+name: PR
+
+plugins:
+  - jekyll-sitemap
