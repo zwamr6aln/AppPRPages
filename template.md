@@ -1,3 +1,7 @@
+---
+descriptioon: placeholder
+---
+
 _アプリ名_
 ===========
 _キャッチコピー_
