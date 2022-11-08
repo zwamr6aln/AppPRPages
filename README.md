@@ -21,3 +21,5 @@ Apps
 [LockInNote](LockInNote)
 
 [MemorizeWidget](MemorizeWidget)
+
+[Portal page](portal)

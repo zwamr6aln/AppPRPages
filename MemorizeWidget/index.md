@@ -1,5 +1,5 @@
 ---
-descriptioon: iPhone/iPad用アプリ。ウィジェットを暗記帳にして日常の中で知識を脳に染み込ませるアプリです。
+descriptioon: iPhone/iPad用アプリ。ホーム画面やロック画面に配置したウィジェットを暗記帳にできるアプリ。日常の中で知識を脳に染み込ませよう。
 ---
 
 暗記ウィジェット MemorizeWidget
