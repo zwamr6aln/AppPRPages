@@ -89,7 +89,7 @@ sear_pandora_0x@icloud.com
 </tr>
 </table>
 
-### バージョン履歴
+### バージョン
 1.0.2
 
 <img src="qr-code.jpg" width="160">
