@@ -1,4 +1,3 @@
-
 AppPRPages
 ========
 [GitHub link](https://github.com/zwamr6aln/AppPRPages)
@@ -7,7 +6,7 @@ AppPRPages
 
 Apps
 -------------
-[template](template)
+[__template__](template)
 
 [FadeInAlarm](FadeInAlarm)
 
