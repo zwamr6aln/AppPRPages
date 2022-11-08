@@ -4,10 +4,14 @@ AppPRPages
 
 [Pages link](https://zwamr6aln.github.io/AppPRPages/)
 
+* * *
+
+[Portal page](portal)
+
+[template](template)
+
 Apps
 -------------
-[__template__](template)
-
 [FadeInAlarm](FadeInAlarm)
 
 [TapWeight](TapWeight)
@@ -21,5 +25,3 @@ Apps
 [LockInNote](LockInNote)
 
 [MemorizeWidget](MemorizeWidget)
-
-[Portal page](portal)
