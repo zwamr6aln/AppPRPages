@@ -6,7 +6,7 @@ FlipByBlink
 
 [![AppStore link](appstore_badge.svg)](https://apps.apple.com/app/id1444571751)
 
-<img src="screenshot1200w.png" width="600">
+<img src="top1200w.png" width="600">
 
 概要
 ----------
@@ -28,9 +28,9 @@ FlipByBlink
 瞬目を検出するためにApple製フレームワークであるARKit/FaceTrackingAPIを使用しています。そのためTrueDepthカメラ、もしくはA12Bionic以降のチップが必要です。
 
 #### サポート対象外のデバイス
-- iPhone 6s, 6s plus, 7, 7 plus, 8, 8 plus, SE 1st
-- iPad 5, 6, 7, Air 2, mini 4, Pro 9.7, Pro 10.5, Pro 12.9 1st, Pro 12.9 2nd
-- iPod touch 7
+- __iPhone__ 6s, 6s plus, 7, 7 plus, 8, 8 plus, SE 1st
+- __iPad__ 5, 6, 7, Air 2, mini 4, Pro 9.7, Pro 10.5, Pro 12.9 1st, Pro 12.9 2nd
+- __iPod touch__ 7
 
 ### オプトイン機能
 - プレビュー機能のAR映像をカメラ映像に変更
