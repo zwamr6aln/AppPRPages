@@ -4,7 +4,7 @@ descriptioon: iPhone/iPad用アプリ。ホーム画面やロック画面に配�
 
 暗記ウィジェット MemorizeWidget
 ============================
-ウィジェットを暗記帳にしよう
+_ウィジェットを暗記帳にしよう_
 
 <img src="icon.png" width="80">
 

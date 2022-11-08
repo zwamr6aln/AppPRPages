@@ -2,7 +2,7 @@
 descriptioon: placeholder
 ---
 
-_アプリ名_
+`アプリ名`
 ===========
 _キャッチコピー_
 
