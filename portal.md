@@ -1,4 +1,4 @@
-Ryo Yamashita のアプリ
+アプリ一覧
 ======================
 
 FlipByBlink
