@@ -69,3 +69,5 @@ sear_pandora_0x@icloud.com
 
 ### バージョン
 1.1
+
+<img src="qr-code.jpg" width="160">

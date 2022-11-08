@@ -92,4 +92,4 @@ sear_pandora_0x@icloud.com
 ### バージョン履歴
 1.0.2
 
-<img src="qr-code.jpg" width="200">
+<img src="qr-code.jpg" width="160">
