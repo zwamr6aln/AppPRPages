@@ -1,4 +1,4 @@
-TapTemperature / 体温登録
+TapTemperature 体温登録
 =============================
 Apple「ヘルスケア」アプリに体温を最速で登録しよう
 
