@@ -24,13 +24,7 @@ FlipByBlink
 - 電車やバスでの読書
 - 身体障害を抱える方の読書
 
-### サポートデバイス
-瞬目を検出するためにApple製フレームワークであるARKit/FaceTrackingAPIを使用しています。そのためTrueDepthカメラ、もしくはA12Bionic以降のチップが必要です。
-
-#### サポート対象外のデバイス
-- __iPhone__ 6s, 6s plus, 7, 7 plus, 8, 8 plus, SE 1st
-- __iPad__ 5, 6, 7, Air 2, mini 4, Pro 9.7, Pro 10.5, Pro 12.9 1st, Pro 12.9 2nd
-- __iPod touch__ 7
+<img src="usecase680w.png" width="240">
 
 ### オプトイン機能
 - プレビュー機能のAR映像をカメラ映像に変更
@@ -38,6 +32,14 @@ FlipByBlink
 - 画面収録用にアプリ情報を常時表示
 - [実験的な機能] ページめくりに必要な時間の調整機能
 - [実験的な機能] 片目ウインクで1ページ戻る
+
+### サポートデバイス
+瞬目を検出するためにApple製フレームワークであるARKit/FaceTrackingAPIを使用しています。そのためTrueDepthカメラ、もしくはA12Bionic以降のチップが必要です。
+
+#### サポート対象外のデバイス
+- __iPhone__ 6s, 6s plus, 7, 7 plus, 8, 8 plus, SE 1st
+- __iPad__ 5, 6, 7, Air 2, mini 4, Pro 9.7, Pro 10.5, Pro 12.9 1st, Pro 12.9 2nd
+- __iPod touch__ 7
 
 * * *
 
