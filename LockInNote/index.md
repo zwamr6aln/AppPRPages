@@ -25,7 +25,7 @@ _iOS16で登場したロック画面ウィジェット専用のノートアプ�
 - テキストをシェアシートで共有できます。
 - テキストと連携する任意のURLスキームを呼ぶことができます。
 
-<img src="placeholder1200w.png" width="240">
+<img src="placeholder1200w.png" width="300">
 
 * * *
 
