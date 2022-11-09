@@ -8,7 +8,9 @@ _2022年秋リリースされたiOS16の新機能「ロック画面ウィジェ�
 
 <img src="icon.png" width="80">
 
-[![AppStore link](appstore_badge.svg)](https://apps.apple.com/app/id1644879340)
+<a href="https://apps.apple.com/app/id1644879340" target="blank">
+  <img src="appstore_badge.svg">
+</a>
 
 <img src="top1200w.png" width="600">
 
@@ -78,4 +80,6 @@ sear_pandora_0x@icloud.com
 ### バージョン
 1.0.2
 
-<img src="qr-code.jpg" width="160">
+<a href="https://apps.apple.com/app/id1644879340" target="blank">
+  <img src="qr-code.jpg" width="160">
+</a>

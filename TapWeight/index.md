@@ -4,7 +4,9 @@ _「ヘルスケア」アプリに体重データを最速で登録しよう_
 
 <img src="icon.png" width="80">
 
-[![AppStore link](appstore_badge.svg)](https://apps.apple.com/app/id1624159721)
+<a href="https://apps.apple.com/app/id1624159721" target="blank">
+  <img src="appstore_badge.svg">
+</a>
 
 <img src="apple_health_badge.svg">
 
@@ -96,4 +98,6 @@ sear_pandora_0x@icloud.com
 ### バージョン
 1.3.1
 
-<img src="qr-code.jpg" width="160">
+<a href="https://apps.apple.com/app/id1624159721" target="blank">
+  <img src="qr-code.jpg" width="160">
+</a>

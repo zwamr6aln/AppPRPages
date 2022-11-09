@@ -4,7 +4,9 @@ FadeInAlarm フェードインアラーム
 
 <img src="icon.png" width="80">
 
-[![AppStore link](appstore_badge.svg)](https://apps.apple.com/app/id1465336070)
+<a href="https://apps.apple.com/app/id1465336070" target="blank">
+  <img src="appstore_badge.svg">
+</a>
 
 <img src="top1200w.png" width="600">
 
@@ -101,4 +103,6 @@ sear_pandora_0x@icloud.com
 ### バージョン
 2.1
 
-<img src="qr-code.jpg" width="160">
+<a href="https://apps.apple.com/app/id1465336070" target="blank">
+  <img src="qr-code.jpg" width="160">
+</a>

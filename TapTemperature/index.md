@@ -4,7 +4,9 @@ _Apple「ヘルスケア」アプリに体温を最速で登録しよう_
 
 <img src="icon.png" width="80">
 
-[![AppStore link](appstore_badge.svg)](https://apps.apple.com/app/id1626760566)
+<a href="https://apps.apple.com/app/id1626760566" target="blank">
+  <img src="appstore_badge.svg">
+</a>
 
 <img src="apple_health_badge.svg">
 
@@ -94,4 +96,6 @@ sear_pandora_0x@icloud.com
 ### バージョン
 1.0.2
 
-<img src="qr-code.jpg" width="160">
+<a href="https://apps.apple.com/app/id1626760566" target="blank">
+  <img src="qr-code.jpg" width="160">
+</a>

@@ -4,7 +4,9 @@ _最もプレーンな将棋盤アプリ_
 
 <img src="icon.png" width="80">
 
-[![AppStore link](appstore_badge.svg)](https://apps.apple.com/app/id1620268476)
+<a href="https://apps.apple.com/app/id1620268476" target="blank">
+  <img src="appstore_badge.svg">
+</a>
 
 <img src="top1200w.png" width="600">
 
@@ -83,4 +85,6 @@ sear_pandora_0x@icloud.com
 ### バージョン
 1.2.2
 
-<img src="qr-code.jpg" width="160">
+<a href="https://apps.apple.com/app/id1620268476" target="blank">
+  <img src="qr-code.jpg" width="160">
+</a>

@@ -8,7 +8,9 @@ _ウィジェットを暗記帳にしよう_
 
 <img src="icon.png" width="80">
 
-[![AppStore link](appstore_badge.svg)](https://apps.apple.com/app/id1644276262)
+<a href="https://apps.apple.com/app/id1644276262" target="blank">
+  <img src="appstore_badge.svg">
+</a>
 
 <img src="top1200w.png" width="600">
 
@@ -68,4 +70,6 @@ sear_pandora_0x@icloud.com
 ### バージョン
 1.1
 
-<img src="qr-code.jpg" width="160">
+<a href="https://apps.apple.com/app/id1644276262" target="blank">
+  <img src="qr-code.jpg" width="160">
+</a>
