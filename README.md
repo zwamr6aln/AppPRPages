@@ -12,15 +12,15 @@ AppPRPages
 
 Apps
 -------------
+[FlipByBlink](FlipByBlink)
+
+[Plain将棋盤](Plain将棋盤)
+
 [FadeInAlarm](FadeInAlarm)
 
 [TapWeight](TapWeight)
 
 [TapTemperature](TapTemperature)
-
-[FlipByBlink](FlipByBlink)
-
-[Plain将棋盤](Plain将棋盤)
 
 [LockInNote](LockInNote)
 
