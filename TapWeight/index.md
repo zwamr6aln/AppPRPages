@@ -6,6 +6,8 @@ _「ヘルスケア」アプリに体重データを最速で登録しよう_
 
 [![AppStore link](appstore_badge.svg)](https://apps.apple.com/app/id1624159721)
 
+<img src="apple_health_badge.svg">
+
 <img src="top1200w.png" width="600">
 
 概要
