@@ -8,7 +8,9 @@ _キャッチコピー_
 
 <img src="icon.png" width="80">
 
-[![AppStore link](appstore_badge.svg)](https://apps.apple.com/app/)
+<a href="https://apps.apple.com/app/" target="blank">
+  <img src="appstore_badge.svg">
+</a>
 
 <img src="top1200w.png" width="600">
 
@@ -62,4 +64,6 @@ sear_pandora_0x@icloud.com
 #### リリース日
 2022-01-01
 
-<img src="qr-code.jpg" width="160">
+<a href="https://apps.apple.com/app/" target="blank">
+  <img src="qr-code.jpg" width="160">
+</a>

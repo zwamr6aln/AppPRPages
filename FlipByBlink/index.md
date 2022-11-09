@@ -4,7 +4,9 @@ _まばたきだけでページめくりができる電子書籍アプリ_
 
 <img src="icon.png" width="80">
 
-[![AppStore link](appstore_badge.svg)](https://apps.apple.com/app/id1444571751)
+<a href="https://apps.apple.com/app/id1444571751" target="blank">
+  <img src="appstore_badge.svg">
+</a>
 
 <img src="top1200w.png" width="600">
 
@@ -30,7 +32,7 @@ _まばたきだけでページめくりができる電子書籍アプリ_
 - プレビュー機能のAR映像をカメラ映像に変更
 - プレビュー機能のAR映像を消えないように固定
 - 画面収録用にアプリ情報を画面上に常時表示
-- 実験的な機能
+- 🚧 実験的な機能
   - ページめくりに必要な時間の調整機能
   - 片目ウインクで1ページ戻る
 
@@ -101,4 +103,6 @@ sear_pandora_0x@icloud.com
 ### バージョン
 3.0.2
 
-<img src="qr-code.jpg" width="160">
+<a href="https://apps.apple.com/app/id1444571751" target="blank">
+  <img src="qr-code.jpg" width="160">
+</a>
