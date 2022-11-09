@@ -30,7 +30,7 @@ _iOS16で登場したロック画面ウィジェット専用のノートアプ�
 
 ### テキスト未入力時に分かりやすいアイコン
 
-<img src="placeholder1200w.png" width="240">
+<img src="placeholder600w.png" width="240">
 
 ### その他
 - テキストをシェアシートで共有できます。
