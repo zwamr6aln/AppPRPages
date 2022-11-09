@@ -61,3 +61,5 @@ sear_pandora_0x@icloud.com
 
 #### リリース日
 2022-01-01
+
+<img src="qr-code.jpg" width="160">
