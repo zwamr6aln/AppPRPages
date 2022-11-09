@@ -38,7 +38,7 @@ _2022年秋リリースされたiOS16の新機能「ロック画面ウィジェ�
 - テキストをシェアシートで共有
 - テキストと連携する任意のURLスキームを呼ぶ
 
-<img src="screenshot2_800w.png" width="400">
+<img src="screenshot2_800w.png" width="300">
 
 * * *
 
