@@ -68,3 +68,7 @@ iPhoneにプリインストールされている「ヘルスケア」アプリ�
 iPhone/iPadのホーム画面やロック画面を暗記帳にするアプリ
 
 [製品情報を読む](MemorizeWidget)
+
+補足資料
+----------
+[ウィジェットとは](Others/about_widget)
