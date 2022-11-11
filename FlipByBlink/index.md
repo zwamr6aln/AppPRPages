@@ -17,7 +17,7 @@ _まばたきだけでページめくりができる電子書籍アプリ_
 - PDFファイルに対応
 - カメラであなたのまばたきを認識します
 
-<img src="preview.gif" class="video">
+<img src="preview.gif" class="except_printing">
 
 ### ユースケース
 - 一般的な読書

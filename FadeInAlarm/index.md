@@ -47,7 +47,7 @@ _時間をかけて少しずつ音が大きくなるアラームアプリ_
 3. 設定した時刻になると音量が少しずつ大きくなり、ユーザーが指定した時間間隔(数十秒から数十分)で本来の音量に達します。
 4. 停止ボタンを押すとユーザーが指定した時間間隔(数秒から1分)で音量が少しずつ小さくなります。完全に無音になるとアプリはアラーム音声の再生をストップします。
 
-<h3 class="video">デモビデオ</h3>
+<h3 class="except_printing">デモビデオ</h3>
 <video controls width="200" src="preview.mp4">
       Sorry, your browser doesn't support embedded videos.
 </video>
