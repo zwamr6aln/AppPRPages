@@ -19,6 +19,8 @@ _まばたきだけでページめくりができる電子書籍アプリ_
 
 <img src="preview.gif" class="except_printing">
 
+<img src="flow.png" width="500">
+
 ### ユースケース
 - 一般的な読書
 - 楽譜を見ながら楽器を演奏
