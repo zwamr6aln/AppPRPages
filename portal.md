@@ -59,6 +59,9 @@ iPhoneにプリインストールされている「ヘルスケア」アプリ�
 
 [製品情報を読む](LockInNote)
 
+### 補足資料
+[ウィジェットとは](Others/about_widget)
+
 * * *
 
 暗記ウィジェット
@@ -69,6 +72,5 @@ iPhone/iPadのホーム画面やロック画面を暗記帳にするアプリ
 
 [製品情報を読む](MemorizeWidget)
 
-補足資料
-----------
+### 補足資料
 [ウィジェットとは](Others/about_widget)
