@@ -21,7 +21,7 @@ _まばたきだけでページめくりができる電子書籍アプリ_
 
 <img src="flow.svg" width="540">
 
-画像に示すように閉瞼を少し長めに行うとページ送りを行い、目を開けた際には次のページに遷移します。普通のまばたきではページめくりされません。
+閉瞼を少し長めに行うとページ送りを行われ、目を開けたタイミングでは既に次のページに遷移した状態になります。普通のまばたきではページめくりされません。
 
 デバイス内蔵のカメラやセンサーでまばたきを検知します。
 
@@ -44,10 +44,6 @@ _まばたきだけでページめくりができる電子書籍アプリ_
 
 ### サポートデバイス
 まばたきを検出するためにApple製フレームワークであるARKit/FaceTrackingAPIを使用しています。そのためTrueDepthカメラ、もしくはA12Bionic以降のチップが必要です。
-
-> <img src="https://docs-assets.developer.apple.com/published/4279a3e186/8752e8c3-688a-4aeb-bf1e-d8f39b75db20.png" width="220">
->
-> 引用: https://developer.apple.com/documentation/arkit/arfaceanchor/blendshapelocation/2928261-eyeblinkleft
 
 #### ⚠️ サポート対象外のデバイス
 - iPhone
