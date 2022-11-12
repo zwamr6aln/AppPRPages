@@ -17,7 +17,7 @@
 >
 > 健康やフィットネスに関するデータは、iPhone、Apple Watchに内蔵されたセンサー、対応する他社製デバイス、HealthKitを使用するアプリから集約されます。
 >
-> `https://www.apple.com/jp/ios/health/`
+> 引用: https://www.apple.com/jp/ios/health/
 
 * * *
 
