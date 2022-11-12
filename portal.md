@@ -40,7 +40,7 @@ iPhoneにプリインストールされている「ヘルスケア」アプリ�
 [製品情報を読む](TapWeight)
 
 ### 補足資料
-[「ヘルスケア」アプリとは](Others/about_healthcare)
+[ヘルスケアアプリとは](Others/about_healthcare)
 
 * * *
 
@@ -53,7 +53,7 @@ iPhoneにプリインストールされている「ヘルスケア」アプリ�
 [製品情報を読む](TapTemperature)
 
 ### 補足資料
-[「ヘルスケア」アプリとは](Others/about_healthcare)
+[ヘルスケアアプリとは](Others/about_healthcare)
 
 * * *
 
