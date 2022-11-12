@@ -2,7 +2,7 @@ AppPRPages
 ===========
 [GitHub link](https://github.com/zwamr6aln/AppPRPages)
 
-[Pages link](https://test.仮.com)
+[Pages link](https://資料.仮.com)
 
 * * *
 
