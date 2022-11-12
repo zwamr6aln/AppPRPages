@@ -45,6 +45,10 @@ _まばたきだけでページめくりができる電子書籍アプリ_
 ### サポートデバイス
 まばたきを検出するためにApple製フレームワークであるARKit/FaceTrackingAPIを使用しています。そのためTrueDepthカメラ、もしくはA12Bionic以降のチップが必要です。
 
+> <img src="https://docs-assets.developer.apple.com/published/4279a3e186/8752e8c3-688a-4aeb-bf1e-d8f39b75db20.png" width="220">
+>
+> 引用: https://developer.apple.com/documentation/arkit/arfaceanchor/blendshapelocation/2928261-eyeblinkleft
+
 #### ⚠️ サポート対象外のデバイス
 - iPhone
   - 6s
