@@ -19,7 +19,7 @@ _まばたきだけでページめくりができる電子書籍アプリ_
 ### ページめくりの仕組み
 <img src="preview.gif" class="except_printing">
 
-<img src="flow.png" width="500">
+<img src="flow.svg" width="540">
 
 画像に示すように閉瞼を少し長めに行うとページ送りを行い、目を開けた際には次のページに遷移します。普通のまばたきではページめくりされません。
 
