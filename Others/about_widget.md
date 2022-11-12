@@ -4,7 +4,7 @@
 >
 > ホーム画面やロック画面にウィジェットを追加して、これらの情報をいつでもすぐに利用できるようにすることもできます。
 >
-> 引用: https://support.apple.com/ja-jp/guide/iphone/iphb8f1bf206/ios
+> _引用: https://support.apple.com/ja-jp/guide/iphone/iphb8f1bf206/ios_
 
 <img src="widget800w.png" width="400">
 
@@ -20,7 +20,7 @@
 >
 > <img src="ios16_lockscreen.png" width="450">
 >
-> 引用: https://www.apple.com/jp/ios/ios-16/
+> _引用: https://www.apple.com/jp/ios/ios-16/_
 
 ### 最新機種 iPhone 14 Pro の常時表示ディスプレイ
 2022秋に発売された最新機種 iPhone 14 Pro では新機能として常時表示ディスプレイが搭載された。iPhoneをロックすると画面が真っ暗になるのではなくロック画面が常に表示されるようになった。この際、ロック画面ウィジェットも常に表示される。
@@ -31,4 +31,4 @@
 >
 > <img src="iphone14pro_alwaysondisplay.png" width="350">
 >
-> 引用: https://www.apple.com/jp/iphone-14-pro/
+> _引用: https://www.apple.com/jp/iphone-14-pro/_
