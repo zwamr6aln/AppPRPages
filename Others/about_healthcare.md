@@ -1,21 +1,23 @@
 補足資料「ヘルスケアアプリとは」
 ================================
-個人の総合的な健康情報を記録するためのApple製アプリ。iPhoneにプリインストールされている。
+個人の健康情報を総合的に記録するためのApple製アプリ。iPhoneにプリインストールされている。
 
+> <img src="healthcare1.png" width="300">
+>
 > __ヘルスケアアプリ。あなたの健康をもっと見渡そう。__
 >
 > あなたの健康に関する大切な情報を整理し、安全な一つの場所に集めて
 簡単にアクセスできるようにするヘルスケアアプリ。
-
-<img src="healthcare1.png" width="300">
-
+>
+> <img src="healthcare2.png" width="300">
+>
 > 服用している薬、アクティビティ、睡眠など、健康に関する大切な情報をあなたの指先に用意する。それがヘルスケアアプリです。
-
-<img src="healthcare2.png" width="300">
-
+>
+> <img src="healthcare3.png" width="300">
+>
 > 健康やフィットネスに関するデータは、iPhone、Apple Watchに内蔵されたセンサー、対応する他社製デバイス、HealthKitを使用するアプリから集約されます。
-
-<img src="healthcare3.png" width="300">
+>
+> `https://www.apple.com/jp/ios/health/`
 
 * * *
 
