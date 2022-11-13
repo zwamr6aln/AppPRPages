@@ -1,8 +1,3 @@
----
-keywords: test1 test2 
-robots: noindex
----
-
 AppPRPages
 ===========
 [GitHub link](https://github.com/zwamr6aln/AppPRPages)
