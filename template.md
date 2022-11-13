@@ -16,7 +16,7 @@ _キャッチコピー_
 
 概要
 ----------
-placeholder。iPhone/iPad用アプリ。
+placeholder。iPhone、iPad用アプリ。
 
 ### オプション
 - placeholder
