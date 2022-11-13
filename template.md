@@ -1,6 +1,6 @@
 ---
 descriptioon: placeholder
-<meta name="robots" content="index,follow">
+robots: nofollow
 ---
 
 `アプリ名`

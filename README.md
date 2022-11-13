@@ -2,10 +2,12 @@ AppPRPages README
 ==================
 [GitHub link](https://github.com/zwamr6aln/AppPRPages)
 
-[Pages link](https://資料.仮.com)
+Pages link
+---------------
+[資料.仮.com(exclude)](https://資料.仮.com)
 
-* * *
+[Portal page](https://資料.仮.com/portal)
 
-[Portal page](portal)
+[template page](https://資料.仮.com/template)
 
-[template](template)
+[sitemap.xml](https://資料.仮.com/sitemap.xml)
