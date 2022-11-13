@@ -16,7 +16,7 @@ _キャッチコピー_
 
 概要
 ----------
-placeholder
+placeholder。iPhone/iPad用アプリ。
 
 ### オプション
 - placeholder
@@ -34,6 +34,9 @@ placeholder
 ### プラットフォーム
 - iOS 16. 以降
 - iPadOS 16. 以降
+
+#### Appleシリコン搭載のMacでのiPhoneおよびiPad用のApp
+配信あり。macOS 12.1 以降が対象。
 
 ### サポート言語
 - 日本語
