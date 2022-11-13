@@ -1,6 +1,5 @@
 ---
 descriptioon: placeholder
-robots: nofollow
 ---
 
 `アプリ名`
