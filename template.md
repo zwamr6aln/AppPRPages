@@ -1,5 +1,5 @@
 ---
-descriptioon: placeholder
+descriptioon: site.time
 ---
 
 `アプリ名`
