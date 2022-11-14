@@ -15,3 +15,6 @@ Pages link
 [template page](https://資料.仮.com/template)
 
 [sitemap.xml](https://資料.仮.com/sitemap.xml)
+
+### URL
+https://xn--qev058f.xn--xnq.com
