@@ -30,6 +30,13 @@ _iPhone/iPadのホーム画面やロック画面を暗記帳にしよう_
 ### オプション
 - ウィジェット上でノートの「タイトル」だけでなく「コメント」を表示することも可能(ホーム画面のウィジェット/ロック画面の長方形ウィジェットのみ対象)
 
+### 最新機種 iPhone 14 Pro にオススメ！
+常時表示ディスプレイが搭載された iPhone 14 Pro なら、iPhoneを触らなくても暗記帳をチェック可能！
+
+> <img src="iphone14pro_alwaysondisplay.png" width="250">
+>
+> _引用: https://www.apple.com/jp/iphone-14-pro/_
+
 * * *
 
 仕様

@@ -40,6 +40,13 @@ _2022年秋リリースされたiOS16の新機能「ロック画面ウィジェ�
 
 <img src="screenshot2_800w.png" width="300">
 
+### 最新機種 iPhone 14 Pro にオススメ！
+常時表示ディスプレイが搭載された iPhone 14 Pro だと、iPhoneが最も身近なメモ帳に変身。
+
+> <img src="iphone14pro_alwaysondisplay.png" width="250">
+>
+> _引用: https://www.apple.com/jp/iphone-14-pro/_
+
 * * *
 
 仕様
