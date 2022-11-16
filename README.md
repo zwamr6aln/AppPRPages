@@ -1,7 +1,3 @@
----
-published: false
----
-
 AppPRPages README
 ==================
 [GitHub link](https://github.com/zwamr6aln/AppPRPages)
