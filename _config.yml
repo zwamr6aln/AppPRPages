@@ -1,6 +1,6 @@
 
 lang: ja
-name: Site
+name: Page
 # exclude: [README.md]
 
 plugins:
