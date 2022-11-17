@@ -4,9 +4,7 @@ AppPRPages README
 
 Pages link
 ---------------
-[資料.仮.com(exclude)](https://資料.仮.com)
-
-[Portal page](https://資料.仮.com/portal)
+[資料.仮.com](https://資料.仮.com)
 
 [template page](https://資料.仮.com/template)
 

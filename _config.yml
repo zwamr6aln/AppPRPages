@@ -1,7 +1,6 @@
 
 lang: ja
 name: Page
-# exclude: [README.md]
 
 plugins:
   - jekyll-sitemap
