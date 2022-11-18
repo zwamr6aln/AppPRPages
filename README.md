@@ -4,11 +4,11 @@ AppPRPages README
 
 Pages link
 ---------------
-[資料.仮.com](https://資料.仮.com)
+[doc.仮.com](https://doc.仮.com)
 
-[template page](https://資料.仮.com/template)
+[template page](https://doc.仮.com/template)
 
-[sitemap.xml](https://資料.仮.com/sitemap.xml)
+[sitemap.xml](https://doc.仮.com/sitemap.xml)
 
 ### URL
-https://xn--qev058f.xn--xnq.com
+https://doc.xn--xnq.com
