@@ -12,3 +12,21 @@ Pages link
 
 ### URL
 https://doc.xn--xnq.com
+
+### Search console
+https://search.google.com/search-console?resource_id=sc-domain%3Adoc.xn--xnq.com
+
+#### Check search result
+https://www.google.com/search?q=%22TapWeight%22
+
+https://www.google.com/search?q=%22TapTeamperature%22
+
+https://www.google.com/search?q=%22Plain将棋盤%22
+
+https://www.google.com/search?q=%22FadeInAlarm%22
+
+https://www.google.com/search?q=%22FlipByBlink%22
+
+https://www.google.com/search?q=%22LockInNote%22
+
+https://www.google.com/search?q=%22MemorizeWidget%22
