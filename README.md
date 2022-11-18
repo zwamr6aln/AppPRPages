@@ -19,7 +19,7 @@ https://search.google.com/search-console?resource_id=sc-domain%3Adoc.xn--xnq.com
 #### Check search result
 https://www.google.com/search?q=%22TapWeight%22
 
-https://www.google.com/search?q=%22TapTeamperature%22
+https://www.google.com/search?q=%22TapTemperature%22
 
 https://www.google.com/search?q=%22Plain将棋盤%22
 
