@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FlipByBlink</title>
+<meta name="description" content="L'application pour iPhone et iPad vous permet de tourner la page en clignant des yeux fermés pendant une période consciemment un peu plus longue.">
+<meta name="robots" content="index, follow">
+<style>
+body {
+  font-family: sans-serif;
+  max-width: 640px;
+  margin: auto;
+  text-align: center;
+  padding: 16px;
+  padding-top: 48px;
+  padding-bottom: 48px;
+}
+
+p,
+ul,
+ol,
+dl,
+pre,
+code,
+blockquote {
+  text-align: initial;
+}
+
+img {
+  max-width: 100%;
+  max-height: 240px;
+  object-fit: contain;
+}
+
+section,
+hr {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+blockquote,
+q {
+  padding: 8px;
+  background-color: #80808020;
+  border-radius: 4px;
+}
+
+table {
+  border-collapse: collapse;
+  border: 2px solid gray;
+  margin: auto;
+}
+
+td,
+th {
+  border: 1px solid gray;
+  padding: 10px;
+}
+
+caption {
+  padding: 10px;
+}
+
+pre {
+  overflow-x: auto;
+  border: 1px solid gray;
+  padding: 12px;
+  border-radius: 8px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --primaryColor: white;
+    --backgroundColor: #212121;
+    --primaryAccentColor: DeepSkyBlue;
+    --secondaryAccentColor: DarkCyan;
+  }
+  body {
+    color: var(--primaryColor);
+    background-color: var(--backgroundColor);
+  }
+  a:link { color: var(--primaryAccentColor); }
+  a:visited { color: var(--secondaryAccentColor); }
+}
+</style>
+</head>
+<h1 translate="no">
+FlipByBlink
+</h1>
+<p><em>Une application pour livres électroniques qui vous permet de tourner les pages en clignant des yeux.</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1444571751" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Vue d'ensemble.</h2>
+<p> Une seule fonction spéciale. Il s'agit d'une application pour iPhone et iPad qui vous permet de tourner des pages en clignant des yeux fermés pendant une période consciemment un peu plus longue.</p>
+<p> En dehors des fonctions ci-dessus, il s'agit d'une application de lecture d'e-books simple et courante.</p>
+<h3 id="ページめくりの仕組み"> Comment fonctionne le tour de page</h3>
+<p><img src="preview.gif" class="except_printing"></p>
+<p><img src="flow.svg" width="540"></p>
+<p> Une paupière fermée légèrement prolongée fait avancer la page, et lorsque vous ouvrez les yeux, vous êtes déjà passé à la page suivante. Un clignotement normal ne provoque pas de retournement de page.</p>
+<p> Le clignotement est détecté par la caméra et les capteurs intégrés de l'appareil.</p>
+<p> Comme la plupart des applications de livres électroniques, vous pouvez également tourner les pages en touchant l'écran ou en le faisant glisser.</p>
+<h3 id="電子書籍フォーマット"> Format e-book.</h3>
+<ul>
+<li> Uniquement pour les livres à mise en page fixe. (Par exemple, des livres papier convertis directement en livres papier, des mangas, etc.)</li>
+<li> Prise en charge de l'importation de fichiers PDF.</li>
+</ul>
+<h3 id="ユースケース"> Cas d'utilisation</h3>
+<ul>
+<li> Lecture générale</li>
+<li> Jouer d'un instrument de musique en regardant des partitions</li>
+<li> Cuisiner en consultant un livre de recettes</li>
+<li> Lire dans les trains et les bus</li>
+<li> Lecture pour les personnes souffrant de handicaps physiques</li>
+</ul>
+<p><img src="usecase680w.png" width="240"></p>
+<hr />
+<h3 id="サポートデバイス"> Dispositifs de soutien</h3>
+<p> Utilise le framework Apple ARKit/FaceTrackingAPI pour la détection des clignements d'yeux. Cela nécessite une caméra TrueDepth ou une puce A12Bionic ou ultérieure.</p>
+<h4 id="サポート対象外のデバイス"> ⚠️ Dispositifs non pris en charge</h4>
+<ul>
+<li> iPhone<ul>
+<li> 6s</li>
+<li> 6s Plus</li>
+<li> 7</li>
+<li> 7 Plus</li>
+<li> 8</li>
+<li> 8 Plus</li>
+<li> SE 1ère génération</li>
+</ul></li>
+<li> iPad<ul>
+<li> 5ème génération</li>
+<li> 6ème génération</li>
+<li> 7ème génération</li>
+<li> Air 2ème génération</li>
+<li> Mini 4ème génération</li>
+<li> Modèle Pro 9.7in</li>
+<li> Modèle Pro 10.5in</li>
+<li> Pro 12.9" modèle 1ère génération</li>
+<li> Pro 12.9" modèle 2ème génération</li>
+</ul></li>
+<li> iPod touch<ul>
+<li> 7ème génération</li>
+</ul></li>
+</ul>
+<hr />
+<h3 id="実験的な機能オプトイン"> 🚧 Fonctions expérimentales (opt-in)</h3>
+<ul>
+<li> Modifier le temps nécessaire pour tourner une page (0,15 secondes par défaut)</li>
+<li> Fonction permettant de revenir d'une page en arrière d'un simple clin d'œil</li>
+</ul>
+<hr />
+<h2 id="仕様"> Spécifications</h2>
+<h3 id="価格"> Prix</h3>
+<p> Gratuit</p>
+<h3 id="アプリ内課金"> Achat in-app</h3>
+<p> Aucun</p>
+<h3 id="プラットフォーム"> Plateformes</h3>
+<ul>
+<li> iOS 14.7 et supérieur</li>
+<li> iPadOS 14.7 et supérieur</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1444571751" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>
+
+</html>

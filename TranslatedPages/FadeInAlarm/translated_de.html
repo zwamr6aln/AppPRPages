@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FadeInAlarm</title>
+<meta name="description" content="Eine Alarm-App, die mit der Zeit immer lauter wird. Eine App für iPhone und iPad.">
+<meta name="robots" content="index, follow">
+<style>
+body {
+    font-family: sans-serif;
+    max-width: 600px;
+    margin: auto;
+    padding: 16px;
+}
+
+img {
+    max-width: 100%;
+}
+
+blockquote {
+    padding: 8px;
+    background-color: #80808020;
+    border-radius: 4px;
+}
+
+q {
+    padding: 6px;
+    background-color: #80808020;
+    border-radius: 4px;
+}
+
+pre {
+    overflow-x: auto;
+    border: 1px solid gray;
+    padding: 12px;
+    border-radius: 6px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border: 1px solid gray;
+    padding: 8px;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primaryColor: white;
+        --backgroundColor: #212121;
+        --primaryAccentColor: DeepSkyBlue;
+        --secondaryAccentColor: DarkCyan;
+    }
+
+    body {
+        color: var(--primaryColor);
+        background-color: var(--backgroundColor);
+    }
+
+    a:link {
+        color: var(--primaryAccentColor);
+    }
+
+    a:visited {
+        color: var(--secondaryAccentColor);
+    }
+}
+</style>
+</head>
+<h1 translate="no">
+FadeInAlarm
+</h1>
+<p><em>Alarm-App mit Ton, der mit der Zeit immer lauter wird</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1465336070" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Überblick.</h2>
+<p> Diese App für iPhone und iPad informiert Sie über die Uhrzeit Ihrer Wahl, indem sie die Lautstärke des Alarms im Laufe der Zeit allmählich erhöht, während normale Alarm-Apps einen lauten Warnton mit mehr Nachdruck ausgeben.</p>
+<p> Sie können die Lautstärke des Alarms über einen längeren Zeitraum hinweg schrittweise erhöhen, von einigen Sekunden bis zu einigen Minuten.</p>
+<p> Dies empfiehlt sich für Menschen, die durch den Klang eines normalen Weckers gestresst werden, oder für Menschen, die nicht zu einem bestimmten Zeitpunkt, sondern in einem groben Zeitintervall auf eine bestimmte Uhrzeit aufmerksam gemacht werden möchten.</p>
+<h3 id="オプション"> Optionen.</h3>
+<h4 id="フェードイン時間"> Einblendzeit</h4>
+<ul>
+<li> 10 Sek.</li>
+<li> 30 Sek.</li>
+<li> 1 Minute</li>
+<li> 5 min</li>
+<li> 30 Min.</li>
+<li> 1 Stunde</li>
+</ul>
+<h4 id="フェードアウト時間"> Ausblendzeit</h4>
+<ul>
+<li> 3 Sek.</li>
+<li> 7 Sek.</li>
+<li> 15 Sek.</li>
+<li> 30 Sek.</li>
+<li> 1 min.</li>
+</ul>
+<h4 id="待機中の音量"> Lautstärke im Standby-Modus</h4>
+<ul>
+<li translate="no">
+10%
+</li>
+<li translate="no">
+5%
+</li>
+<li translate="no">
+3%
+</li>
+<li translate="no">
+1%
+</li>
+<li> 0% (stumm)</li>
+</ul>
+<h3 id="動作の流れ"> Ablauf der Operation</h3>
+<ol type="1">
+<li> Wenn die Starttaste gedrückt wird, beginnt die App, den Alarmton in sehr geringer Lautstärke (oder stumm) abzuspielen.</li>
+<li> Die App spielt den Alarmton wiederholt ab, bis der Benutzer die Stopptaste drückt.</li>
+<li> Zum eingestellten Zeitpunkt nimmt die Lautstärke allmählich zu und erreicht ihre volle Lautstärke nach einem vom Benutzer festgelegten Zeitintervall (einige Sekunden bis einige Minuten).</li>
+<li> Durch Drücken der Stopptaste wird die Lautstärke in benutzerdefinierten Intervallen (von einigen Sekunden bis zu einer Minute) schrittweise verringert. Die App hört auf, den Alarmton abzuspielen, wenn völlige Stille herrscht.</li>
+</ol>
+<h3 class="except_printing"> Demo-Video.</h3>
+<video controls width="200" src="preview.mp4"> Ihr Browser unterstützt leider keine eingebetteten Videos.</video>
+<hr />
+<h3 id="注意事項"> Anmerkungen.</h3>
+<h4
+id="音源は自分で用意する必要がある"><em>Sie müssen Ihre eigenen Sounddateien vorbereiten!</em></h4>
+<p> Bitte importieren Sie selbst erstellte Sounddateien (z.B. mp3).</p>
+<p> Die Tondaten sind in der App zu Testzwecken voreingestellt.</p>
+<h4
+id="普通のアラームアプリより不便な面あります"><em>Diese App ist unbequemer als normale Alarm-Apps!</em></h4>
+<p> Aus verschiedenen Gründen unterscheidet sich diese App von gewöhnlichen Alarm-Apps dadurch, dass sie keinen Alarm auslösen kann, wenn die App selbst gar nicht läuft. Sie müssen die App vorher starten.</p>
+<p> Wenn Sie diese App zum Beispiel um 6 Uhr morgens als Wecker verwenden möchten, starten Sie die App kurz vor dem Schlafengehen und drücken Sie die Starttaste.</p>
+<h4 id="待機中も制限あります"><em>Auch im Standby-Modus gibt es Einschränkungen!</em></h4>
+<p> Sie können Ihr Gerät im Standby-Modus sperren oder andere Apps verwenden, müssen aber ein wenig aufpassen, dass Sie den Standby-Modus des Alarms nicht unterbrechen.</p>
+<ul>
+<li> Die Alarmbereitschaft wird in den folgenden Situationen unterbrochen. <ul>
+<li> Situationen, in denen Sie lange Videos in anderen Anwendungen ansehen.</li>
+<li> Situationen, in denen Sie einen Titel in der Musik-App des Geräts abspielen</li>
+</ul></li>
+<li> Die Alarmbereitschaft wird in folgenden Situationen unterbrochen, aber automatisch wiederhergestellt <ul>
+<li> Situationen, in denen die Kamera-App verwendet wird</li>
+<li> Szenarien, in denen der Ton durch eine Art von Systemmeldung erzeugt wird.</li>
+</ul></li>
+</ul>
+<hr />
+<h2 id="仕様"> Spezifikationen</h2>
+<h3 id="価格"> Preis</h3>
+<p> 160 Yen</p>
+<h3 id="アプリ内課金"> In-App-Kauf</h3>
+<p> Keine</p>
+<h3 id="プラットフォーム"> Plattformen</h3>
+<ul>
+<li> iOS 15.2 oder höher</li>
+<li> iPadOS 15.2 oder höher</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1465336070" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>
+
+</html>

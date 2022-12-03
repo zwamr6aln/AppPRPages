@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FadeInAlarm</title>
+<meta name="description" content="Aplikasi alarm yang secara bertahap meningkat volumenya seiring waktu. Aplikasi untuk iPhone dan iPad.">
+<meta name="robots" content="index, follow">
+<style>
+body {
+    font-family: sans-serif;
+    max-width: 600px;
+    margin: auto;
+    padding: 16px;
+}
+
+img {
+    max-width: 100%;
+}
+
+blockquote {
+    padding: 8px;
+    background-color: #80808020;
+    border-radius: 4px;
+}
+
+q {
+    padding: 6px;
+    background-color: #80808020;
+    border-radius: 4px;
+}
+
+pre {
+    overflow-x: auto;
+    border: 1px solid gray;
+    padding: 12px;
+    border-radius: 6px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border: 1px solid gray;
+    padding: 8px;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primaryColor: white;
+        --backgroundColor: #212121;
+        --primaryAccentColor: DeepSkyBlue;
+        --secondaryAccentColor: DarkCyan;
+    }
+
+    body {
+        color: var(--primaryColor);
+        background-color: var(--backgroundColor);
+    }
+
+    a:link {
+        color: var(--primaryAccentColor);
+    }
+
+    a:visited {
+        color: var(--secondaryAccentColor);
+    }
+}
+</style>
+</head>
+<h1 translate="no">
+FadeInAlarm
+</h1>
+<p><em>Aplikasi alarm dengan suara yang secara bertahap menjadi lebih keras dari waktu ke waktu</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1465336070" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Ikhtisar.</h2>
+<p> Aplikasi untuk iPhone dan iPad ini memungkinkan Anda mengetahui waktu pilihan Anda dengan meningkatkan volume alarm secara bertahap dari waktu ke waktu, sedangkan aplikasi alarm normal membunyikan nada peringatan keras dengan kekuatan yang lebih besar.</p>
+<p> Anda bisa secara bertahap meningkatkan volume alarm selama periode waktu yang lebih lama, dari puluhan detik hingga puluhan menit.</p>
+<p> Hal ini direkomendasikan bagi orang yang tertekan oleh bunyi alarm yang khas, atau bagi orang yang ingin menyadari waktu tertentu pada interval waktu yang kasar, bukan pada saat tertentu dalam waktu.</p>
+<h3 id="オプション"> Opsi.</h3>
+<h4 id="フェードイン時間"> Waktu fade-in</h4>
+<ul>
+<li> 10 detik.</li>
+<li> 30 detik.</li>
+<li> 1 menit</li>
+<li> 5 menit</li>
+<li> 30 menit</li>
+<li> 1 jam</li>
+</ul>
+<h4 id="フェードアウト時間"> Waktu pudar</h4>
+<ul>
+<li> 3 detik.</li>
+<li> 7 detik.</li>
+<li> 15 detik.</li>
+<li> 30 detik.</li>
+<li> 1 menit.</li>
+</ul>
+<h4 id="待機中の音量"> Volume dalam mode siaga</h4>
+<ul>
+<li translate="no">
+10%
+</li>
+<li translate="no">
+5%
+</li>
+<li translate="no">
+3%
+</li>
+<li translate="no">
+1%
+</li>
+<li> 0% (diam)</li>
+</ul>
+<h3 id="動作の流れ"> Urutan operasi</h3>
+<ol type="1">
+<li> Apabila tombol start ditekan, aplikasi mulai memutar suara alarm dalam volume yang sangat rendah (atau hening).</li>
+<li> Aplikasi akan terus memutar suara alarm berulang kali sampai pengguna menekan tombol stop.</li>
+<li> Pada waktu yang ditetapkan, volume secara bertahap meningkat dan mencapai volume penuh setelah interval waktu yang ditentukan pengguna (puluhan detik hingga puluhan menit).</li>
+<li> Menekan tombol Stop akan secara bertahap mengurangi volume pada interval yang ditentukan pengguna (dari beberapa detik hingga satu menit). Aplikasi berhenti memainkan suara alarm ketika benar-benar hening.</li>
+</ol>
+<h3 class="except_printing"> Video demo.</h3>
+<video controls width="200" src="preview.mp4"> Maaf, browser Anda tidak mendukung video yang disematkan.</video>
+<hr />
+<h3 id="注意事項"> Catatan.</h3>
+<h4
+id="音源は自分で用意する必要がある"><em>Anda harus menyiapkan file suara Anda sendiri!</em></h4>
+<p> Silakan impor file suara (misalnya, mp3) yang disiapkan oleh pengguna sendiri.</p>
+<p> Data suara sudah diatur sebelumnya dalam aplikasi untuk tujuan pengujian.</p>
+<h4
+id="普通のアラームアプリより不便な面あります"><em>Aplikasi ini lebih merepotkan daripada aplikasi alarm biasa!</em></h4>
+<p> Karena berbagai alasan, aplikasi ini berbeda dari aplikasi alarm biasa, karena tidak bisa membunyikan alarm apabila aplikasi itu sendiri tidak berjalan sama sekali. Anda harus memulai aplikasi sebelumnya.</p>
+<p> Misalnya, jika Anda ingin menggunakan aplikasi ini pada pukul 6 pagi untuk tujuan alarm, mulai aplikasi tepat sebelum Anda pergi tidur dan tekan tombol start.</p>
+<h4 id="待機中も制限あります"><em>Ada juga pembatasan saat dalam keadaan siaga!</em></h4>
+<p> Anda dapat mengunci perangkat atau menggunakan aplikasi lain sewaktu dalam keadaan siaga, tetapi Anda harus sedikit berhati-hati agar tidak mengganggu status siaga alarm.</p>
+<ul>
+<li> Status siaga alarm diinterupsi dalam situasi berikut ini. <ul>
+<li> Situasi di mana Anda menonton video panjang di aplikasi lain.</li>
+<li> Situasi di mana Anda memutar lagu di aplikasi musik perangkat</li>
+</ul></li>
+<li> Status siaga alarm diinterupsi dalam situasi berikut ini, tetapi secara otomatis dilanjutkan kembali <ul>
+<li> Situasi di mana aplikasi kamera sedang digunakan</li>
+<li> Skenario di mana suara dihasilkan oleh semacam notifikasi sistem.</li>
+</ul></li>
+</ul>
+<hr />
+<h2 id="仕様"> Spesifikasi</h2>
+<h3 id="価格"> Harga</h3>
+<p> 160 yen</p>
+<h3 id="アプリ内課金"> Pembelian dalam aplikasi</h3>
+<p> Tidak ada</p>
+<h3 id="プラットフォーム"> Platform</h3>
+<ul>
+<li> iOS 15.2 atau yang lebih baru</li>
+<li> iPadOS 15.2 atau yang lebih baru</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1465336070" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>
+
+</html>
