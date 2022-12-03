@@ -1,6 +1,6 @@
 import Foundation
 
-let 🔑authKey: String = ""
+let 🔑authKey: String = Load("auth_key.txt")
 
 func Translate(_ ⓣext: String, in ⓛang: 🗺️Language) async throws -> String {
     let ⓤrl = "https://api-free.deepl.com/v2/translate"
