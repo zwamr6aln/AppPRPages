@@ -1,6 +1,6 @@
 
-# lang: ja
-name: Page
+lang: ja
+# name: Page
 
 plugins:
   - jekyll-sitemap
