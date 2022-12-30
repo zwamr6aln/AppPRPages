@@ -10,6 +10,8 @@ Pages link
 
 [sitemap.xml](https://doc.仮.com/sitemap.xml)
 
+[translated](https://doc.仮.com/translated)
+
 ### URL
 https://doc.xn--xnq.com
 
