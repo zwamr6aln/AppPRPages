@@ -13,7 +13,7 @@ struct 🄷TMLTemplate {
     }
     
     func assembleHTML(_ ⓛang: 🗺️Language, _ ⓑody: String, _ ⓓiscription: String) -> String {
-        return """
+        """
         <!DOCTYPE html>
         <html lang="\(ⓛang.htmlTag)">
         

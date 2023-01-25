@@ -1,6 +1,6 @@
 import Foundation
 
-print("currentDirectoryPath:", FileManager().currentDirectoryPath)
+print("currentDirectoryPath:", FileManager.default.currentDirectoryPath)
 
 print("CommandLine.arguments[1]: ", CommandLine.arguments[1])
 
