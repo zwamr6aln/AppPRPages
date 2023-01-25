@@ -1,6 +1,7 @@
 ---
 layout: product
 folderName: TapWeight
+description: iPhoneにプリインストールされているApple「ヘルスケア」アプリに体重データを(手動としては)最速で登録するためのアプリです。iPhone専用アプリ。
 ---
 
 TapWeight 体重登録

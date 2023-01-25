@@ -1,7 +1,7 @@
 ---
 layout: product
 folderName: MemorizeWidget
-descriptioon: iPhone/iPad用アプリ。ホーム画面やロック画面に配置したウィジェットを暗記帳にできるアプリ。日常の中で知識を脳に染み込ませよう。
+description: iPhone/iPad用アプリ。ホーム画面やロック画面に配置したウィジェットを暗記帳にできるアプリ。日常の中で知識を脳に染み込ませよう。
 ---
 
 暗記ウィジェット MemorizeWidget

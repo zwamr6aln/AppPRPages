@@ -1,6 +1,7 @@
 ---
 layout: product
 folderName: FlipByBlink
+description: まばたきだけでページめくりができる電子書籍アプリ。iPhone、iPad用アプリ。
 ---
 
 FlipByBlink

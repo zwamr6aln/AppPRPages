@@ -1,6 +1,7 @@
 ---
 layout: product
 folderName: TapTemperature
+description: iPhoneにプリインストールされているApple「ヘルスケア」アプリに体温データを(手動としては)最速で登録するためのアプリです。iPhone専用アプリ。
 ---
 
 TapTemperature 体温登録

@@ -1,6 +1,7 @@
 ---
 layout: product
 folderName: FadeInAlarm
+description: 時間をかけて少しずつ音が大きくなるアラームアプリ。iPhone、iPad用アプリ。
 ---
 
 FadeInAlarm フェードインアラーム

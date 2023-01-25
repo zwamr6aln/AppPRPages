@@ -1,11 +1,12 @@
 ---
 layout: product
 folderName: Plain将棋盤
+description: SharePlayにも対応した最もプレーンな将棋盤アプリ。iPhone、iPad用アプリ。
 ---
 
 Plain将棋盤
 ==============
-_最もプレーンな将棋盤アプリ_
+_SharePlayにも対応した最もプレーンな将棋盤アプリ_
 
 <img src="icon.png" width="80">
 

@@ -1,7 +1,7 @@
 ---
 layout: product
 folderName: LockInNote
-descriptioon: iPhone用アプリ。2022年秋リリースされたiOS16の新機能「ロック画面ウィジェット」に特化したノートアプリ
+description: iPhone用アプリ。2022年秋リリースされたiOS16の新機能「ロック画面ウィジェット」に特化したノートアプリ
 ---
 
 ロックノート LockInNote
