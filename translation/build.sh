@@ -3,6 +3,7 @@
 # ==== Directory structure ====
 # top(current directory)
 # - build.sh(here)
+# - auth_key.txt
 # - FOLDER1
 #     - body.md
 #     - description.txt
