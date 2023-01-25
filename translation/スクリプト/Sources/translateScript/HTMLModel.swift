@@ -41,7 +41,7 @@ struct 🄷TMLTemplate {
         <link rel="alternate" hreflang="ru" href="https://doc.xn--xnq.com/translation/\(self.folderName)/ru.html"/>
         <link rel="alternate" hreflang="zh" href="https://doc.xn--xnq.com/translation/\(self.folderName)/zh.html"/>
         <link rel="alternate" hreflang="uk" href="https://doc.xn--xnq.com/translation/\(self.folderName)/uk.html"/>
-        <link rel="alternate" hreflang="x-default" href="https://doc.xn--xnq.com/\(self.folderName)/"/>
+        <link rel="alternate" hreflang="x-default" href="https://doc.xn--xnq.com/translation/\(self.folderName)/en.html"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>\(self.title)</title>
         <meta name="description" content="\(ⓓescription)">
@@ -111,6 +111,16 @@ struct 🄷TMLTemplate {
         </style>
         </head>
         \(ⓑody)
+        <a href="https://doc.xn--xnq.com/\(self.folderName)/">日本語(Native)</a>
+        <a href="https://doc.xn--xnq.com/translation/\(self.folderName)/en.html">English</a>
+        <a href="https://doc.xn--xnq.com/translation/\(self.folderName)/id.html">Bahasa Indonesia</a>
+        <a href="https://doc.xn--xnq.com/translation/\(self.folderName)/es.html">Español</a>
+        <a href="https://doc.xn--xnq.com/translation/\(self.folderName)/de.html">Deutsch</a>
+        <a href="https://doc.xn--xnq.com/translation/\(self.folderName)/fr.html">Français</a>
+        <a href="https://doc.xn--xnq.com/translation/\(self.folderName)/pt.html">Português</a>
+        <a href="https://doc.xn--xnq.com/translation/\(self.folderName)/ru.html">Русский</a>
+        <a href="https://doc.xn--xnq.com/translation/\(self.folderName)/zh.html">中文</a>
+        <a href="https://doc.xn--xnq.com/translation/\(self.folderName)/uk.html">Українська</a>
         </html>
         """
     }
