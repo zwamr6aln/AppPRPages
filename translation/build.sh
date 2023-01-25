@@ -26,7 +26,7 @@
 
 function translate() {
     pandoc "$1"/body.md -o "$1"/temporaryBody.html
-    swift run --package-path SCRIPT translateScript "$1"
+    swift run --package-path スクリプト translateScript "$1"
     rm "$1"/temporaryBody.html
 }
 
