@@ -111,9 +111,10 @@ struct 🄷TMLTemplate {
         </style>
         </head>
         \(ⓑody)
-        <a href="https://doc.xn--xnq.com/\(self.folderName)/">日本語(Native)</a>
+        <hr>
+        <a href="https://doc.xn--xnq.com/\(self.folderName)/">日本語(native)</a>
         <a href="https://doc.xn--xnq.com/translation/\(self.folderName)/en.html">English</a>
-        <a href="https://doc.xn--xnq.com/translation/\(self.folderName)/id.html">Bahasa Indonesia</a>
+        <a href="https://doc.xn--xnq.com/translation/\(self.folderName)/id.html">Indonesia</a>
         <a href="https://doc.xn--xnq.com/translation/\(self.folderName)/es.html">Español</a>
         <a href="https://doc.xn--xnq.com/translation/\(self.folderName)/de.html">Deutsch</a>
         <a href="https://doc.xn--xnq.com/translation/\(self.folderName)/fr.html">Français</a>
