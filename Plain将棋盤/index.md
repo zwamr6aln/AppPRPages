@@ -1,3 +1,8 @@
+---
+layout: product
+folderName: Plain将棋盤
+---
+
 Plain将棋盤
 ==============
 _最もプレーンな将棋盤アプリ_

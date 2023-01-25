@@ -1,3 +1,8 @@
+---
+layout: product
+folderName: TapWeight
+---
+
 TapWeight 体重登録
 ==================================
 _「ヘルスケア」アプリに体重データを最速で登録しよう_

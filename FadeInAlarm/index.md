@@ -1,3 +1,8 @@
+---
+layout: product
+folderName: FadeInAlarm
+---
+
 FadeInAlarm フェードインアラーム
 ===============================
 _時間をかけて少しずつ音が大きくなるアラームアプリ_

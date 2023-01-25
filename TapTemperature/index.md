@@ -1,3 +1,8 @@
+---
+layout: product
+folderName: TapTemperature
+---
+
 TapTemperature 体温登録
 =============================
 _Apple「ヘルスケア」アプリに体温を最速で登録しよう_

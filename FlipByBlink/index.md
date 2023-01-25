@@ -1,5 +1,6 @@
 ---
-layout: fbb_hreflang
+layout: product
+folderName: FlipByBlink
 ---
 
 FlipByBlink
