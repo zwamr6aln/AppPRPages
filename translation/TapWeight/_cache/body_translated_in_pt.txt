@@ -1,0 +1,73 @@
+<h1 translate="no">
+TapWeight
+</h1>
+<p><em>Registe os seus dados de peso na aplicação de Cuidados de Saúde o mais rapidamente possível.</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1624159721" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="apple_health_badge.svg"></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Visão geral.</h2>
+<p> Esta é a forma mais rápida (manual) de registar dados de peso no aplicativo 'Cuidados de Saúde' da Apple pré-instalado no iPhone.</p>
+<h3 id="想定ユーザー-ユースケース"> Utilizadores pretendidos / casos de utilização</h3>
+<ul>
+<li> Não tem uma escala inteligente.</li>
+<li> Medem o seu peso e percentagem de gordura corporal numa escala diária.</li>
+<li> Considerando o registo manual dos resultados da medição na aplicação "Cuidados de Saúde" imediatamente após cada medição na escala.</li>
+</ul>
+<h3 id="オプション"> Opções</h3>
+<ul>
+<li> Unidade<ul>
+<li> kg quilograma</li>
+<li> libras libras</li>
+<li> Pedra.</li>
+</ul></li>
+<li> A unidade de entrada pode ser alterada de 100g para 50g</li>
+<li> O IMC pode ser calculado e registado automaticamente ao mesmo tempo</li>
+<li> A percentagem de gordura corporal pode ser registada ao mesmo tempo</li>
+<li> A data e a hora de registo podem ser alteradas.</li>
+</ul>
+<h3 id="その他"> Outras características</h3>
+<ul>
+<li> Lançamento da aplicação Apple Health Care a partir desta aplicação.</li>
+<li> O registo pode ser cancelado imediatamente após o registo.</li>
+<li> Função de histórico no dispositivo para verificações de funcionamento e backup simples.</li>
+</ul>
+<h3 id="注意"> Notas.</h3>
+<p> Esta aplicação não pode ler, visualizar ou gerir dados passados na aplicação de Cuidados de Saúde. Esta aplicação destina-se apenas ao registo de dados na aplicação "Cuidados de Saúde". Por favor, verifique os dados registados na aplicação 'Cuidados de Saúde'.</p>
+<h3 id="背景"> Antecedentes.</h3>
+<p> As pessoas medem frequentemente o seu peso e percentagem de gordura corporal numa base diária utilizando balanças. Muitos utilizadores de iPhone registam os seus dados de peso e gordura corporal na aplicação "Cuidados de Saúde".</p>
+<p> A melhor solução é utilizar uma balança inteligente que funcione com a aplicação Health Care e armazene automaticamente as medições, mas estas podem ser caras e inacessíveis. Embora seja possível registar dados manualmente na aplicação dos Cuidados de Saúde, infelizmente a aplicação dos Cuidados de Saúde não foi concebida para o registo manual de rotina de medições. Portanto, a introdução manual de dados que ocorrem continuamente numa base diária, tais como medições de peso, pode ser uma experiência muito demorada e estressante.</p>
+<p> Esta aplicação foi desenvolvida para resolver tais problemas.</p>
+<hr />
+<h2 id="仕様"> Especificações</h2>
+<h3 id="価格"> Preço</h3>
+<p> Sem custos</p>
+<h3 id="アプリ内課金"> Compra no próprio equipamento</h3>
+<p> Ocultar anúncios (160 ienes)</p>
+<h3 id="プラットフォーム"> Plataformas</h3>
+<ul>
+<li> iOS 15.0 ou posterior</li>
+</ul>
+<h3 id="サポート言語"> Línguas suportadas</h3>
+<ul>
+<li> Todos<ul>
+<li> Japonês</li>
+<li> Inglês</li>
+</ul></li>
+<li> Apenas 3 palavras principais (temperatura corporal/temperatura corporal básica/cuidados com a saúde) são traduzidas.<ul>
+<li> Chinês Simplificado</li>
+<li> Tradicional Chinesa</li>
+<li> Chinês Simplificado Chinês Tradicional Chinês</li>
+<li> Português</li>
+<li> Russo</li>
+<li> Indonésio</li>
+<li> Francês</li>
+<li> árabe</li>
+<li> Alemão</li>
+<li> Coreano</li>
+<li> Ucraniano</li>
+</ul></li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1624159721" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

@@ -26,14 +26,14 @@
 
 function translate() {
     pandoc "$1"/body.md -o "$1"/temporaryBody.html
-    swift run --package-path translateScriptFolder translateScript "$1"
+    swift run --package-path SCRIPT translateScript "$1"
     rm "$1"/temporaryBody.html
 }
 
-translate Plain将棋盤
-translate TapTemperature
+# translate Plain将棋盤
+# translate TapTemperature
 translate TapWeight
-translate FadeInAlarm
-translate MemorizeWidget
-translate LockInNote
-translate FlipByBlink
+# translate FadeInAlarm
+# translate MemorizeWidget
+# translate LockInNote
+# translate FlipByBlink
