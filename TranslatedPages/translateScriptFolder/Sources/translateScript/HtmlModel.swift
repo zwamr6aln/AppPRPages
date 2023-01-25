@@ -31,7 +31,7 @@ struct 🄷TMLTemplate {
         
         <head>
         <meta charset="utf-8">
-        <link rel="alternate" hreflang="ja" href="https://doc.xn--xnq.com/\(self.folderName)/ja.html"/>
+        <link rel="alternate" hreflang="ja" href="https://doc.xn--xnq.com/\(self.folderName)/"/>
         <link rel="alternate" hreflang="en" href="https://doc.xn--xnq.com/translated/\(self.folderName)/en.html"/>
         <link rel="alternate" hreflang="id" href="https://doc.xn--xnq.com/translated/\(self.folderName)/id.html"/>
         <link rel="alternate" hreflang="es" href="https://doc.xn--xnq.com/translated/\(self.folderName)/es.html"/>
@@ -115,10 +115,10 @@ struct 🄷TMLTemplate {
     }
     
     func bodyCacheFileName(_ ⓛang: 🗺️Language) -> String {
-        "_cache/body_translated_in_\(ⓛang.htmlTag).txt"
+        self.folderName + "/_cache/body_translated_in_\(ⓛang.htmlTag).txt"
     }
     
     func descriptionCacheFileName(_ ⓛang: 🗺️Language) -> String {
-        "_cache/description_translated_in_\(ⓛang.htmlTag).txt"
+        self.folderName + "/_cache/description_translated_in_\(ⓛang.htmlTag).txt"
     }
 }
