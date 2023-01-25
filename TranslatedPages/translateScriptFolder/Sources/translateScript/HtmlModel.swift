@@ -7,12 +7,24 @@ struct 🄷TMLTemplate {
     var body: String
     
     func translate(_ ⓛang: 🗺️Language) async throws -> String {
-        let 🌏body = try await 🅃ranslate(self.body, in: ⓛang)
-        let 🌏description = try await 🅃ranslate(self.description, in: ⓛang)
-        return self.assembleHTML(ⓛang, 🌏body, 🌏description)
+        let ⓑody: String
+        let ⓓescription: String
+        if let ⓒache = 🄻oad(self.bodyCacheFileName(ⓛang)) {
+            ⓑody = ⓒache
+        } else {
+            ⓑody = try await 🅃ranslate(self.body, in: ⓛang)
+            🅂ave(ⓑody, self.bodyCacheFileName(ⓛang))
+        }
+        if let ⓒache = 🄻oad(self.descriptionCacheFileName(ⓛang)) {
+            ⓓescription = ⓒache
+        } else {
+            ⓓescription = try await 🅃ranslate(self.description, in: ⓛang)
+            🅂ave(ⓓescription, self.descriptionCacheFileName(ⓛang))
+        }
+        return self.assembleHTML(ⓛang, ⓑody, ⓓescription)
     }
     
-    func assembleHTML(_ ⓛang: 🗺️Language, _ ⓑody: String, _ ⓓiscription: String) -> String {
+    func assembleHTML(_ ⓛang: 🗺️Language, _ ⓑody: String, _ ⓓescription: String) -> String {
         """
         <!DOCTYPE html>
         <html lang="\(ⓛang.htmlTag)">
@@ -100,5 +112,13 @@ struct 🄷TMLTemplate {
         \(ⓑody)
         </html>
         """
+    }
+    
+    func bodyCacheFileName(_ ⓛang: 🗺️Language) -> String {
+        "_cache/body_translated_in_\(ⓛang.htmlTag).txt"
+    }
+    
+    func descriptionCacheFileName(_ ⓛang: 🗺️Language) -> String {
+        "_cache/description_translated_in_\(ⓛang.htmlTag).txt"
     }
 }

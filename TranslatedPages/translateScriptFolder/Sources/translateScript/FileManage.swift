@@ -1,8 +1,8 @@
 import Foundation
 
-func 🄻oad(_ ⓝame: String) -> String {
+func 🄻oad(_ ⓝame: String) -> String? {
     let ⓟath = FileManager.default.currentDirectoryPath + "/" + ⓝame
-    return try! String(contentsOfFile: ⓟath, encoding: .utf8)
+    return try? String(contentsOfFile: ⓟath, encoding: .utf8)
 }
 
 func 🅂ave(_ ⓣext: String, _ ⓝame: String) {
