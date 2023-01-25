@@ -1,9 +1,9 @@
 #!/bin/bash
-#
+
 # ==== Directory structure ====
 # top(current directory)
 # - build.sh(here)
-# - auth_key.txt
+# - auth_key.txt(local only)
 # - FOLDER1
 #     - body.md
 #     - description.txt
@@ -16,7 +16,7 @@
 #     - body.md
 #     - description.txt
 #     - ASSET
-# - translateScriptFolder //第一引数にディレクトリ名
+# - スクリプト //第一引数にディレクトリ名
 #     - Package.swift
 #     - Source/translateScript/aaaa.swift
 #
