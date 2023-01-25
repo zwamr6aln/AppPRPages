@@ -22,6 +22,14 @@ iOSの標準デザインに沿ったシンプルな将棋盤アプリです。
 
 駒を英語表記に変えられます。
 
+盤面をテキストデータとして書き出したり読み込んだり出来ます。
+
+SharePlayに対応しています。
+
+FaceTimeしながら友達と将棋盤を囲むことが出来ます。
+
+SharePlay機能では「2人でシンプルに対局する」だけでなく、「大人数で詰将棋を解く」などの様々なユースケースを想定しています。
+
 <img src="screenshot1200w.png" width="600">
 
 ### テキスト書き出し/読み込み
@@ -83,7 +91,7 @@ sear_pandora_0x@icloud.com
 </table>
 
 ### バージョン
-1.2.2
+1.3
 
 <a href="https://apps.apple.com/app/id1620268476" target="blank">
   <img src="qr-code.jpg" width="160">
