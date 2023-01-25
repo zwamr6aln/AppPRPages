@@ -1,0 +1,1 @@
+App para iPhone. notas app dedicado à nova funcionalidade 'lock screen widget' do iOS 16, lançado no Outono de 2022.

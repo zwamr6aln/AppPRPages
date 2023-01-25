@@ -1,0 +1,1 @@
+Se trata de un tablero de ajedrez en el que puedes mover las piezas libremente. aplicación para iPhone y iPad.

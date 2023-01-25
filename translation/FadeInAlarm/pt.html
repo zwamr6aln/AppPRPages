@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+<meta charset="utf-8">
+<link rel="alternate" hreflang="ja" href="https://doc.xn--xnq.com/FadeInAlarm/"/>
+<link rel="alternate" hreflang="en" href="https://doc.xn--xnq.com/translation/FadeInAlarm/en.html"/>
+<link rel="alternate" hreflang="id" href="https://doc.xn--xnq.com/translation/FadeInAlarm/id.html"/>
+<link rel="alternate" hreflang="es" href="https://doc.xn--xnq.com/translation/FadeInAlarm/es.html"/>
+<link rel="alternate" hreflang="de" href="https://doc.xn--xnq.com/translation/FadeInAlarm/de.html"/>
+<link rel="alternate" hreflang="fr" href="https://doc.xn--xnq.com/translation/FadeInAlarm/fr.html"/>
+<link rel="alternate" hreflang="pt" href="https://doc.xn--xnq.com/translation/FadeInAlarm/pt.html"/>
+<link rel="alternate" hreflang="ru" href="https://doc.xn--xnq.com/translation/FadeInAlarm/ru.html"/>
+<link rel="alternate" hreflang="zh" href="https://doc.xn--xnq.com/translation/FadeInAlarm/zh.html"/>
+<link rel="alternate" hreflang="uk" href="https://doc.xn--xnq.com/translation/FadeInAlarm/uk.html"/>
+<link rel="alternate" hreflang="x-default" href="https://doc.xn--xnq.com/translation/FadeInAlarm/en.html"/>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FadeInAlarm</title>
+<meta name="description" content="Uma aplicação de alarme que aumenta gradualmente de volume ao longo do tempo. Uma aplicação para iPhone e iPad.">
+<meta name="robots" content="index, follow">
+<style>
+body {
+    font-family: sans-serif;
+    max-width: 600px;
+    margin: auto;
+    padding: 16px;
+}
+
+img {
+    max-width: 100%;
+}
+
+blockquote {
+    padding: 8px;
+    background-color: #80808020;
+    border-radius: 4px;
+}
+
+q {
+    padding: 6px;
+    background-color: #80808020;
+    border-radius: 4px;
+}
+
+pre {
+    overflow-x: auto;
+    border: 1px solid gray;
+    padding: 12px;
+    border-radius: 6px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border: 1px solid gray;
+    padding: 8px;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primaryColor: white;
+        --backgroundColor: #212121;
+        --primaryAccentColor: DeepSkyBlue;
+        --secondaryAccentColor: DarkCyan;
+    }
+
+    body {
+        color: var(--primaryColor);
+        background-color: var(--backgroundColor);
+    }
+
+    a:link {
+        color: var(--primaryAccentColor);
+    }
+
+    a:visited {
+        color: var(--secondaryAccentColor);
+    }
+}
+</style>
+</head>
+<h1 translate="no">
+FadeInAlarm
+</h1>
+<p><em>Aplicação de alarme com som que se torna gradualmente mais alto ao longo do tempo</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1465336070" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Visão geral.</h2>
+<p> Esta aplicação para iPhone e iPad permite-lhe saber o tempo da sua escolha aumentando gradualmente o volume do alarme ao longo do tempo, enquanto as aplicações de alarme normais emitem um som de aviso sonoro com mais força.</p>
+<p> Pode aumentar gradualmente o volume do alarme durante um período de tempo mais longo, de dezenas de segundos para dezenas de minutos.</p>
+<p> Isto é recomendado para pessoas que estão stressadas pelo som de um alarme típico, ou para pessoas que querem estar conscientes de um momento específico num intervalo de tempo difícil, em vez de num determinado momento no tempo.</p>
+<h3 id="オプション"> Opções.</h3>
+<h4 id="フェードイン時間"> Tempo de chegada</h4>
+<ul>
+<li> 10 seg.</li>
+<li> 30 segundos.</li>
+<li> 1 min</li>
+<li> 5 min</li>
+<li> 30 mins</li>
+<li> 1 hora</li>
+</ul>
+<h4 id="フェードアウト時間"> Tempo de extinção</h4>
+<ul>
+<li> 3 seg.</li>
+<li> 7 seg.</li>
+<li> 15 seg.</li>
+<li> 30 segundos.</li>
+<li> 1 minuto.</li>
+</ul>
+<h4 id="待機中の音量"> Volume em modo de espera</h4>
+<ul>
+<li translate="no">
+10%
+</li>
+<li translate="no">
+5%
+</li>
+<li translate="no">
+3%
+</li>
+<li translate="no">
+1%
+</li>
+<li> 0% (silêncio)</li>
+</ul>
+<h3 id="動作の流れ"> Sequência de operação</h3>
+<ol type="1">
+<li> Quando o botão Start é premido, a aplicação começa a tocar o som do alarme em volume muito baixo (ou silêncio).</li>
+<li> A aplicação continuará a tocar o som do alarme repetidamente até o utilizador carregar no botão de paragem.</li>
+<li> No tempo definido, o volume aumenta gradualmente e atinge o seu volume total após um intervalo de tempo especificado pelo utilizador (dezenas de segundos a dezenas de minutos).</li>
+<li> Premindo o botão Stop, o volume diminuirá gradualmente em intervalos especificados pelo utilizador (de alguns segundos para um minuto). A aplicação deixa de tocar o som do alarme quando há um silêncio completo.</li>
+</ol>
+<h3 class="except_printing"> Vídeo de demonstração.</h3>
+<video controls width="200" src="preview.mp4"> Desculpe, o seu browser não suporta vídeos incorporados.</video>
+<hr />
+<h3 id="注意事項"> Notas.</h3>
+<h4
+id="音源は自分で用意する必要がある"><em>Tem de preparar os seus próprios ficheiros de som!</em></h4>
+<p> Por favor importar ficheiros de som (por exemplo, mp3) preparados pelo próprio utilizador.</p>
+<p> Os dados sonoros são pré-definidos na aplicação para fins de teste.</p>
+<h4
+id="普通のアラームアプリより不便な面あります"><em>Esta aplicação é mais inconveniente do que as aplicações de alarme normais!</em></h4>
+<p> Por várias razões, esta aplicação difere das aplicações de alarme comuns na medida em que não pode soar um alarme quando a própria aplicação não está de todo a funcionar. É necessário iniciar o aplicativo com antecedência.</p>
+<p> Por exemplo, se quiser utilizar esta aplicação às 6 da manhã para efeitos de alarme, inicie a aplicação imediatamente antes de ir para a cama e prima o botão de início.</p>
+<h4 id="待機中も制限あります"><em>Há também restrições enquanto em standby!</em></h4>
+<p> Pode bloquear o seu dispositivo ou utilizar outras aplicações enquanto estiver em modo de espera, mas precisa de ter um pouco de cuidado para não interromper o estado de espera do alarme.</p>
+<ul>
+<li> O estado de vigília do alarme é interrompido nas seguintes situações <ul>
+<li> Situações em que se vê longos vídeos noutras aplicações.</li>
+<li> Situações em que uma canção é tocada na aplicação musical do dispositivo</li>
+</ul></li>
+<li> O estado de espera do alarme é interrompido nas seguintes situações, mas será retomado automaticamente <ul>
+<li> Situações em que a aplicação da câmara é utilizada.</li>
+<li> Situações em que o som é gerado por algum tipo de notificação do sistema.</li>
+</ul></li>
+</ul>
+<hr />
+<h2 id="仕様"> Especificações</h2>
+<h3 id="価格"> Preço</h3>
+<p> 160 ienes</p>
+<h3 id="アプリ内課金"> Compra no próprio equipamento</h3>
+<p> Nenhum</p>
+<h3 id="プラットフォーム"> Plataformas</h3>
+<ul>
+<li> iOS 15.2 ou posterior</li>
+<li> iPadOS 15.2 ou posterior</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1465336070" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>
+
+<hr>
+<a href="https://doc.xn--xnq.com/FadeInAlarm/">日本語(native)</a>
+<a href="https://doc.xn--xnq.com/translation/FadeInAlarm/en.html">English</a>
+<a href="https://doc.xn--xnq.com/translation/FadeInAlarm/id.html">Indonesia</a>
+<a href="https://doc.xn--xnq.com/translation/FadeInAlarm/es.html">Español</a>
+<a href="https://doc.xn--xnq.com/translation/FadeInAlarm/de.html">Deutsch</a>
+<a href="https://doc.xn--xnq.com/translation/FadeInAlarm/fr.html">Français</a>
+<a href="https://doc.xn--xnq.com/translation/FadeInAlarm/pt.html">Português</a>
+<a href="https://doc.xn--xnq.com/translation/FadeInAlarm/ru.html">Русский</a>
+<a href="https://doc.xn--xnq.com/translation/FadeInAlarm/zh.html">中文</a>
+<a href="https://doc.xn--xnq.com/translation/FadeInAlarm/uk.html">Українська</a>
+</html>

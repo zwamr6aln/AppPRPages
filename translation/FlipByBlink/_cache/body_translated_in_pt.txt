@@ -1,0 +1,79 @@
+<h1 translate="no">
+FlipByBlink
+</h1>
+<p><em>Uma aplicação de e-book que lhe permite virar páginas apenas piscando</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1444571751" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Visão geral.</h2>
+<p> Apenas uma função especial. Esta é uma aplicação para iPhone e iPad que lhe permite virar as páginas piscando os olhos de olhos fechados durante um período de tempo conscientemente um pouco mais longo.</p>
+<p> Para além das funções acima referidas, esta é uma aplicação simples e geral de leitura de livros electrónicos.</p>
+<h3 id="ページめくりの仕組み"> Como funciona a rotação da página</h3>
+<p><img src="preview.gif" class="except_printing"></p>
+<p><img src="flow.svg" width="540"></p>
+<p> Uma pálpebra fechada ligeiramente prolongada faz com que a página seja enviada para a frente, e quando abrir os olhos, já terá passado para a página seguinte. O piscar normal não provoca uma mudança de página.</p>
+<p> O piscar é detectado pela câmara e sensores incorporados do dispositivo.</p>
+<p> Como a maioria das aplicações de e-books, também se pode virar páginas tocando ou deslizando o ecrã.</p>
+<h3 id="電子書籍フォーマット"> Formato e-book.</h3>
+<ul>
+<li> Apenas para livros de 'lay-out fixo'. Por exemplo, livros de papel convertidos directamente em livros de papel ou banda desenhada.</li>
+<li> Suporta a importação de ficheiros PDF e ZIP.</li>
+</ul>
+<h3 id="ユースケース"> Casos de utilização</h3>
+<ul>
+<li> Leitura geral</li>
+<li> Tocar um instrumento musical enquanto se olha para as partituras</li>
+<li> Cozinhar enquanto se verifica um livro de receitas</li>
+<li> Leitura em comboios e autocarros</li>
+<li> Leitura para pessoas com deficiências físicas</li>
+</ul>
+<p><img src="usecase680w.png" width="240"></p>
+<hr />
+<h3 id="サポートデバイス"> Dispositivos de apoio</h3>
+<p> Utiliza a estrutura ARKit/FaceTrackingAPI da Apple para a detecção de piscadelas. Isto requer uma câmara TrueDepth ou um chip A12Bionic ou posterior.</p>
+<h4 id="サポート対象外のデバイス"> ⚠️ Dispositivos não suportados</h4>
+<ul>
+<li> iPhone<ul>
+<li> 6s</li>
+<li> 6s mais</li>
+<li> 7</li>
+<li> 7 Mais</li>
+<li> 8</li>
+<li> 8 Mais</li>
+<li> SE 1ª geração</li>
+</ul></li>
+<li> iPad<ul>
+<li> 5ª geração</li>
+<li> 6ª geração</li>
+<li> 7ª geração</li>
+<li> Ar 2ª geração</li>
+<li> Mini 4ª geração</li>
+<li> Modelo Pro 9.7in</li>
+<li> Modelo Pro 10.5in</li>
+<li> Modelo "Pro 12.9" 1ª geração</li>
+<li> Modelo "Pro 12.9" 2ª geração</li>
+</ul></li>
+<li> iPod touch<ul>
+<li> 7ª geração</li>
+</ul></li>
+</ul>
+<hr />
+<h3 id="実験的な機能オプトイン"> 🚧 Características experimentais (opt-in)</h3>
+<ul>
+<li> Alterar o tempo necessário para virar uma página (0,15 segundos por defeito)</li>
+<li> Função para retroceder uma página com um único olho a piscar</li>
+</ul>
+<hr />
+<h2 id="仕様"> Especificações</h2>
+<h3 id="価格"> Preço</h3>
+<p> Sem custos</p>
+<h3 id="アプリ内課金"> Compra no próprio equipamento</h3>
+<p> Nenhum</p>
+<h3 id="プラットフォーム"> Plataformas</h3>
+<ul>
+<li> iOS 15.0 e superior</li>
+<li> iPadOS 15.0 e superior</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1444571751" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

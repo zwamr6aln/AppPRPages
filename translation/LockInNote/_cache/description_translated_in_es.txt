@@ -1,0 +1,1 @@
+Aplicación para iPhone. Aplicación de notas dedicada a la nueva función "widget de pantalla de bloqueo" de iOS 16, lanzada en otoño de 2022.

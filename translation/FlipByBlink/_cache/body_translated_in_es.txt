@@ -1,0 +1,79 @@
+<h1 translate="no">
+FlipByBlink
+</h1>
+<p><em>Una aplicación para libros electrónicos que permite pasar páginas con sólo parpadear</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1444571751" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Visión general.</h2>
+<p> Sólo una función especial. Se trata de una aplicación para iPhone y iPad que permite pasar páginas parpadeando con los ojos cerrados durante un periodo de tiempo ligeramente superior de forma consciente.</p>
+<p> Aparte de las funciones anteriores, se trata de una sencilla aplicación general de lectura de libros electrónicos.</p>
+<h3 id="ページめくりの仕組み"> Cómo funciona el paso de página</h3>
+<p><img src="preview.gif" class="except_printing"></p>
+<p><img src="flow.svg" width="540"></p>
+<p> Un párpado cerrado ligeramente prolongado hace que la página se envíe hacia delante y, para cuando se abren los ojos, ya se ha pasado a la página siguiente. El parpadeo normal no provoca un salto de página.</p>
+<p> El parpadeo es detectado por la cámara y los sensores integrados en el dispositivo.</p>
+<p> Como la mayoría de las aplicaciones de libros electrónicos, también puedes pasar páginas tocando o deslizando la pantalla.</p>
+<h3 id="電子書籍フォーマット"> Formato libro electrónico.</h3>
+<ul>
+<li> Sólo para libros de formato fijo. Por ejemplo, libros de papel convertidos directamente en libros de papel o cómics.</li>
+<li> Admite la importación de archivos PDF y ZIP.</li>
+</ul>
+<h3 id="ユースケース"> Casos prácticos</h3>
+<ul>
+<li> Lectura general</li>
+<li> Tocar un instrumento musical mientras se miran partituras</li>
+<li> Cocinar consultando un recetario</li>
+<li> Leer en trenes y autobuses</li>
+<li> Lectura para personas con discapacidad física</li>
+</ul>
+<p><img src="usecase680w.png" width="240"></p>
+<hr />
+<h3 id="サポートデバイス"> Dispositivos de apoyo</h3>
+<p> Utiliza el framework ARKit/FaceTrackingAPI de Apple para la detección de parpadeos. Esto requiere una cámara TrueDepth o un chip A12Bionic o posterior.</p>
+<h4 id="サポート対象外のデバイス"> ⚠️ Dispositivos no compatibles</h4>
+<ul>
+<li> iPhone<ul>
+<li> 6s</li>
+<li> 6s Plus</li>
+<li> 7</li>
+<li> 7 Plus</li>
+<li> 8</li>
+<li> 8 Plus</li>
+<li> SE 1ª generación</li>
+</ul></li>
+<li> iPad<ul>
+<li> 5ª generación</li>
+<li> 6ª generación</li>
+<li> 7ª generación</li>
+<li> Aire 2ª generación</li>
+<li> Mini de 4ª generación</li>
+<li> Modelo Pro de 9,7 pulgadas</li>
+<li> Modelo Pro de 10,5 pulgadas</li>
+<li> Pro 12,9" modelo 1ª generación</li>
+<li> Pro 12,9" modelo 2ª generación</li>
+</ul></li>
+<li> iPod touch<ul>
+<li> 7ª generación</li>
+</ul></li>
+</ul>
+<hr />
+<h3 id="実験的な機能オプトイン"> 🚧 Funciones experimentales (opcionales)</h3>
+<ul>
+<li> Cambiar el tiempo necesario para pasar de página (0,15 segundos por defecto)</li>
+<li> Función para retroceder una página con sólo guiñar un ojo</li>
+</ul>
+<hr />
+<h2 id="仕様"> Especificaciones</h2>
+<h3 id="価格"> Precio</h3>
+<p> Gratuito</p>
+<h3 id="アプリ内課金"> Compras dentro de la aplicación</h3>
+<p> Ninguno</p>
+<h3 id="プラットフォーム"> Plataformas</h3>
+<ul>
+<li> iOS 15.0 y superior</li>
+<li> iPadOS 15.0 y superior</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1444571751" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

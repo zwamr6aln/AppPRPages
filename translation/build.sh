@@ -31,10 +31,10 @@ function translate() {
     rm "$1"/temporaryBody.html
 }
 
-# translate Plain将棋盤
-# translate TapTemperature
+translate Plain将棋盤
+translate TapTemperature
 translate TapWeight
-# translate FadeInAlarm
-# translate MemorizeWidget
-# translate LockInNote
-# translate FlipByBlink
+translate FadeInAlarm
+translate MemorizeWidget
+translate LockInNote
+translate FlipByBlink

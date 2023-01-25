@@ -1,0 +1,50 @@
+<h1 translate="no">
+LockInNote
+</h1>
+<p><em>一个专用于新的iOS16锁屏小工具功能的记事应用程序，于2022年秋季发布!</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1644879340" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要">概述。</h2>
+<p>这是一个专门从事锁屏小工具的笔记应用程序，是一个iPhone专用的应用程序。</p>
+<p>当你想做笔记时，你可以在锁屏上快速写下笔记，并随时查看锁屏上的笔记!</p>
+<p>锁屏笔记的设计可以灵活定制，所以你可以根据你的各种目的来操作 "留下笔记 "和 "在锁屏上显示文字"。</p>
+<p>点击小部件可立即启动键盘并编辑笔记。</p>
+<p><img src="screenshot1_1200w.png" width="600"></p>
+<h3
+id="フォントのサイズやデザイン太さなどをカスタマイズ">定制字体大小、设计和厚度。</h3>
+<p><img src="customize1200w.png" width="550"></p>
+<h3
+id="テキスト未入力時に分かりやすいアイコン">在没有输入文字时，有易于理解的图标</h3>
+<p><img src="placeholder600w.png" width="240"></p>
+<h3 id="その他">其他。</h3>
+<ul>
+<li>用ShareSheet分享文本</li>
+<li>调用任何适用于文本的URL方案</li>
+</ul>
+<p><img src="screenshot2_800w.png" width="300"></p>
+<h3 id="最新機種-iphone-14-pro-にオススメ">推荐用于最新的iPhone 14 Pro机型!</h3>
+<p>带有Always On Display功能的iPhone 14 Pro将你的iPhone变成你最近的记事本。</p>
+<blockquote>
+<p><img src="iphone14pro_alwaysondisplay.png" width="250"></p>
+<p><em>引用：https://www.apple.com/jp/iphone-14-pro/</em></p>
+</blockquote>
+<hr />
+<h2 id="仕様">规格</h2>
+<h3 id="価格">价格</h3>
+<p>免费的</p>
+<h3 id="アプリ内課金">应用内购买</h3>
+<p>隐藏广告（160日元）</p>
+<h3 id="プラットフォーム">平台</h3>
+<ul>
+<li>iOS 16.0或更高版本</li>
+<li>iPadOS 16.0或更高版本</li>
+</ul>
+<h3 id="サポート言語">支持的语言</h3>
+<ul>
+<li>日本人</li>
+<li>英语</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1644879340" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

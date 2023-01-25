@@ -1,0 +1,1 @@
+Une application qui permet aux widgets placés sur l'écran d'accueil ou l'écran de verrouillage d'être utilisés comme un livre de mémoires. Laissez les connaissances s'imprégner dans votre cerveau au quotidien. Application pour iPhone et iPad.

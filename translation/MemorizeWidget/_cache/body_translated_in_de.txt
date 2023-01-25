@@ -1,0 +1,47 @@
+<h1 translate="no">
+MemorizeWidget
+</h1>
+<p><em>Verwandeln Sie den Startbildschirm oder den Sperrbildschirm Ihres iPhones/iPads in ein Erinnerungsbuch!</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1644276262" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Überblick.</h2>
+<p> Zeigen Sie Ihr Notizbuch mithilfe der Widget-Funktion auf Ihrem Startbildschirm oder Sperrbildschirm an. App für iPhone und iPad.</p>
+<ul>
+<li> Zwei Modi: "Stand-Alone-Modus" und "Zufallsmodus".</li>
+<li> Im "Zufallsmodus" wechseln die angezeigten Noten alle fünf Minuten.</li>
+<li> Unterstützung für Sperrbildschirm-Widgets (nur iOS 16).</li>
+<li> Memorandum-Daten können aus Text und Dateien (csv, tsv, txt, etc.) importiert werden.</li>
+<li> Verknüpfung mit eingebauten Wörterbüchern des Betriebssystems</li>
+<li> Anpassbare Suchfunktion</li>
+</ul>
+<p><img src="screenshot1200w.png" width="600"></p>
+<h3 id="オプション"> Optionen.</h3>
+<ul>
+<li> Anzeige von "Kommentaren" und "Titeln" von Notizen auf Widgets (nur Startbildschirm-Widget/rechteckiges Widget für Sperrbildschirm).</li>
+</ul>
+<h3 id="最新機種-iphone-14-pro-にオススメ"> Empfohlen für die neuesten iPhone 14 Pro Modelle!</h3>
+<p> Mit dem iPhone 14 Pro mit Always On Display können Sie Ihr Notebook überprüfen, ohne Ihr iPhone zu berühren!</p>
+<blockquote>
+<p><img src="iphone14pro_alwaysondisplay.png" width="250"></p>
+<p><em>Zitat: https://www.apple.com/jp/iphone-14-pro/</em></p>
+</blockquote>
+<hr />
+<h2 id="仕様"> Spezifikationen</h2>
+<h3 id="価格"> Preis</h3>
+<p> Unentgeltlich</p>
+<h3 id="アプリ内課金"> In-App-Kauf</h3>
+<p> Anzeigen ausblenden (160 Yen)</p>
+<h3 id="プラットフォーム"> Plattformen</h3>
+<ul>
+<li> iOS 15.6 oder höher</li>
+<li> iPadOS 15.6 oder höher</li>
+</ul>
+<h3 id="サポート言語"> Unterstützte Sprachen</h3>
+<ul>
+<li> Japanisch</li>
+<li> Englisch</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1644276262" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

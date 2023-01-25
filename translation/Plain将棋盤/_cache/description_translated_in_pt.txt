@@ -1,0 +1,1 @@
+Este é apenas um tabuleiro de xadrez onde pode mover as peças livremente. app para iPhone e iPad.
