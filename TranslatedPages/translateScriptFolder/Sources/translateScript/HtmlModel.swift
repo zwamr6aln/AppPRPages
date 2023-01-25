@@ -9,6 +9,10 @@ struct 🄷TMLTemplate {
     func translate(_ ⓛang: 🗺️Language) async throws -> String {
         let 🌏body = try await 🅃ranslate(self.body, in: ⓛang)
         let 🌏description = try await 🅃ranslate(self.description, in: ⓛang)
+        return self.assembleHTML(ⓛang, 🌏body, 🌏description)
+    }
+    
+    func assembleHTML(_ ⓛang: 🗺️Language, _ ⓑody: String, _ ⓓiscription: String) -> String {
         return """
         <!DOCTYPE html>
         <html lang="\(ⓛang.htmlTag)">
@@ -27,7 +31,7 @@ struct 🄷TMLTemplate {
         <link rel="alternate" hreflang="uk" href="https://doc.xn--xnq.com/\(self.folderName)/uk.html"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>\(self.title)</title>
-        <meta name="description" content="\(🌏description)">
+        <meta name="description" content="\(ⓓescription)">
         <meta name="robots" content="index, follow">
         <style>
         body {
@@ -93,7 +97,7 @@ struct 🄷TMLTemplate {
         }
         </style>
         </head>
-        \(🌏body)
+        \(ⓑody)
         </html>
         """
     }
