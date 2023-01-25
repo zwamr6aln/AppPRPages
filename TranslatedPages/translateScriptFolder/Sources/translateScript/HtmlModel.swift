@@ -1,19 +1,30 @@
 import Foundation
 
-struct html_template {
+struct 🄷TMLTemplate {
+    var folderName: String
     var title: String
     var description: String
     var body: String
     
     func translate(_ ⓛang: 🗺️Language) async throws -> String {
-        let 🌏body = try await Translate(self.body, in: ⓛang)
-        let 🌏description = try await Translate(self.description, in: ⓛang)
+        let 🌏body = try await 🅃ranslate(self.body, in: ⓛang)
+        let 🌏description = try await 🅃ranslate(self.description, in: ⓛang)
         return """
         <!DOCTYPE html>
         <html lang="\(ⓛang.htmlTag)">
         
         <head>
         <meta charset="utf-8">
+        <link rel="alternate" hreflang="ja" href="https://doc.xn--xnq.com/\(self.folderName)/ja.html"/>
+        <link rel="alternate" hreflang="en" href="https://doc.xn--xnq.com/\(self.folderName)/en.html"/>
+        <link rel="alternate" hreflang="id" href="https://doc.xn--xnq.com/\(self.folderName)/id.html"/>
+        <link rel="alternate" hreflang="es" href="https://doc.xn--xnq.com/\(self.folderName)/es.html"/>
+        <link rel="alternate" hreflang="de" href="https://doc.xn--xnq.com/\(self.folderName)/de.html"/>
+        <link rel="alternate" hreflang="fr" href="https://doc.xn--xnq.com/\(self.folderName)/fr.html"/>
+        <link rel="alternate" hreflang="pt" href="https://doc.xn--xnq.com/\(self.folderName)/pt.html"/>
+        <link rel="alternate" hreflang="ru" href="https://doc.xn--xnq.com/\(self.folderName)/ru.html"/>
+        <link rel="alternate" hreflang="zh" href="https://doc.xn--xnq.com/\(self.folderName)/zh.html"/>
+        <link rel="alternate" hreflang="uk" href="https://doc.xn--xnq.com/\(self.folderName)/uk.html"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>\(self.title)</title>
         <meta name="description" content="\(🌏description)">
@@ -87,4 +98,3 @@ struct html_template {
         """
     }
 }
-

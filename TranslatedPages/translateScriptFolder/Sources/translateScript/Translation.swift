@@ -1,8 +1,8 @@
 import Foundation
 
-let 🔑authKey: String = Load("auth_key.txt")
+let 🔑authKey: String = 🄻oad("auth_key.txt")
 
-func Translate(_ ⓣext: String, in ⓛang: 🗺️Language) async throws -> String {
+func 🅃ranslate(_ ⓣext: String, in ⓛang: 🗺️Language) async throws -> String {
     let ⓤrl = "https://api-free.deepl.com/v2/translate"
     var ⓡequest = URLRequest(url: URL(string: ⓤrl)!)
     ⓡequest.setValue("DeepL-Auth-Key " + 🔑authKey, forHTTPHeaderField: "Authorization")
@@ -53,26 +53,16 @@ enum 🗺️Language: String, Codable, CaseIterable {
     
     var htmlTag: String {
         switch self {
-            case .英語_アメリカ:
-                return "en"
-            case .日本語:
-                return "ja"
-            case .インドネシア語:
-                return "id"
-            case .スペイン語:
-                return "es"
-            case .ドイツ語:
-                return "de"
-            case .フランス語:
-                return "fr"
-            case .ポルトガル語:
-                return "pt"
-            case .ロシア語:
-                return "ru"
-            case .中国語_簡体字:
-                return "zh"
-            case .ウクライナ語:
-                return "uk"
+            case .英語_アメリカ: return "en"
+            case .日本語: return "ja"
+            case .インドネシア語: return "id"
+            case .スペイン語: return "es"
+            case .ドイツ語: return "de"
+            case .フランス語: return "fr"
+            case .ポルトガル語: return "pt"
+            case .ロシア語: return "ru"
+            case .中国語_簡体字: return "zh"
+            case .ウクライナ語: return "uk"
         }
     }
 }
