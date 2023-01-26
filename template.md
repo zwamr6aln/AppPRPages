@@ -1,5 +1,8 @@
 ---
-descriptioon: placeholder
+layout: 
+folderName: 
+description: 
+published: false
 ---
 
 `アプリ名`
