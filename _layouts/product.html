@@ -15,24 +15,73 @@
     <link rel="alternate" hreflang="ru" href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/ru.html" />
     <link rel="alternate" hreflang="zh" href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/zh.html" />
     <link rel="alternate" hreflang="uk" href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/uk.html" />
-    <link rel="alternate" hreflang="x-default"
-        href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/en.html" />
+    <link rel="alternate" hreflang="x-default" href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/en.html" />
     <meta name="robots" content="index, follow">
-
-    {% seo %}
-    <link rel="stylesheet" href="{{ " /assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    {% include head-custom.html %}
     <style>
-        @media print {
-            video {
-                display: none;
+        body {
+            font-family: sans-serif;
+            max-width: 600px;
+            margin: auto;
+            padding: 16px;
+        }
+        
+        img {
+            max-width: 100%;
+        }
+        
+        blockquote {
+            padding: 8px;
+            background-color: #80808020;
+            border-radius: 4px;
+        }
+        
+        q {
+            padding: 6px;
+            background-color: #80808020;
+            border-radius: 4px;
+        }
+        
+        pre {
+            overflow-x: auto;
+            border: 1px solid gray;
+            padding: 12px;
+            border-radius: 6px;
+        }
+        
+        table {
+            border-collapse: collapse;
+        }
+        
+        td,
+        th {
+            border: 1px solid gray;
+            padding: 8px;
+        }
+        
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --primaryColor: white;
+                --backgroundColor: #212121;
+                --primaryAccentColor: DeepSkyBlue;
+                --secondaryAccentColor: DarkCyan;
             }
-
-            .except_printing {
-                display: none;
+        
+            body {
+                color: var(--primaryColor);
+                background-color: var(--backgroundColor);
+            }
+        
+            a:link {
+                color: var(--primaryAccentColor);
+            }
+        
+            a:visited {
+                color: var(--secondaryAccentColor);
             }
         }
     </style>
+    {% seo %}
+    {% include head-custom.html %}
 </head>
 
 <body>
@@ -50,9 +99,6 @@
         <a href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/zh.html">中文</a>
         <a href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/uk.html">Українська</a>
     </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js"
-        integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
 </body>
 
 </html>
