@@ -110,6 +110,7 @@ struct 🄷TMLTemplate {
         }
         </style>
         </head>
+        <body>
         \(ⓑody)
         <hr>
         <a href="https://doc.xn--xnq.com/\(self.folderName)/">日本語(native)</a>
@@ -122,6 +123,7 @@ struct 🄷TMLTemplate {
         <a href="https://doc.xn--xnq.com/translation/\(self.folderName)/ru.html">Русский</a>
         <a href="https://doc.xn--xnq.com/translation/\(self.folderName)/zh.html">中文</a>
         <a href="https://doc.xn--xnq.com/translation/\(self.folderName)/uk.html">Українська</a>
+        </body>
         </html>
         """
     }
