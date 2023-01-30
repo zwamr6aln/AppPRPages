@@ -87,7 +87,7 @@ sear_pandora_0x@icloud.com
 </table>
 
 ### バージョン
-1.0.2
+1.0.4
 
 <a href="https://apps.apple.com/app/id1644879340" target="blank">
   <img src="qr-code.jpg" width="160">
