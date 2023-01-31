@@ -103,28 +103,6 @@ _時間をかけて少しずつ音が大きくなるアラームアプリ_
 - 英語
 - 日本語
 
-### 問い合わせ
-sear_pandora_0x@icloud.com
-
-### デベロッパー / パブリッシャー
-<table>
-<tr>
-<th>組織構成</th>
-<td>個人系</td>
-</tr>
-<tr>
-<th>人数</th>
-<td>1人</td>
-</tr>
-<tr>
-<th>名前</th>
-<td>山下亮</td>
-</tr>
-</table>
-
-### バージョン
-2.1
-
 <a href="https://apps.apple.com/app/id1465336070" target="blank">
   <img src="qr-code.jpg" width="160">
 </a>
