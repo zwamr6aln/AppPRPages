@@ -9,7 +9,7 @@ FlipByBlink
 
 [製品情報を読む](FlipByBlink)
 
-### 翻訳ページ
+#### 翻訳ページ
 [de](translation/FlipByBlink/de.html)
 [en](translation/FlipByBlink/en.html)
 [es](translation/FlipByBlink/es.html)
@@ -30,7 +30,7 @@ Plain将棋盤
 
 [製品情報を読む](Plain将棋盤)
 
-### 翻訳ページ
+#### 翻訳ページ
 [de](translation/Plain将棋盤/de.html)
 [en](translation/Plain将棋盤/en.html)
 [es](translation/Plain将棋盤/es.html)
@@ -51,7 +51,7 @@ FadeInAlarm
 
 [製品情報を読む](FadeInAlarm)
 
-### 翻訳ページ
+#### 翻訳ページ
 [de](translation/FadeInAlarm/de.html)
 [en](translation/FadeInAlarm/en.html)
 [es](translation/FadeInAlarm/es.html)
@@ -75,7 +75,7 @@ iPhoneにプリインストールされている「ヘルスケア」アプリ�
 ### 補足資料
 [ヘルスケアアプリとは](Others/about_healthcare)
 
-### 翻訳ページ
+#### 翻訳ページ
 [de](translation/TapWeight/de.html)
 [en](translation/TapWeight/en.html)
 [es](translation/TapWeight/es.html)
@@ -99,7 +99,7 @@ iPhoneにプリインストールされている「ヘルスケア」アプリ�
 ### 補足資料
 [ヘルスケアアプリとは](Others/about_healthcare)
 
-### 翻訳ページ
+#### 翻訳ページ
 [de](translation/TapTemperature/de.html)
 [en](translation/TapTemperature/en.html)
 [es](translation/TapTemperature/es.html)
@@ -123,7 +123,7 @@ iPhoneにプリインストールされている「ヘルスケア」アプリ�
 ### 補足資料
 [ウィジェットとは](Others/about_widget)
 
-### 翻訳ページ
+#### 翻訳ページ
 [de](translation/LockInNote/de.html)
 [en](translation/LockInNote/en.html)
 [es](translation/LockInNote/es.html)
@@ -147,7 +147,7 @@ iPhone/iPadのホーム画面やロック画面を暗記帳にするアプリ
 ### 補足資料
 [ウィジェットとは](Others/about_widget)
 
-### 翻訳ページ
+#### 翻訳ページ
 [de](translation/MemorizeWidget/de.html)
 [en](translation/MemorizeWidget/en.html)
 [es](translation/MemorizeWidget/es.html)
