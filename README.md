@@ -1,19 +1,16 @@
 AppPRPages README
-==================
+=====================
 [GitHub link](https://github.com/zwamr6aln/AppPRPages)
 
 Pages link
 ---------------
 [doc.仮.com](https://doc.仮.com)
 
-[template page](https://doc.仮.com/template)
-
-[sitemap.xml](https://doc.仮.com/sitemap.xml)
-
-[translated](https://doc.仮.com/translated)
-
 ### URL
 https://doc.xn--xnq.com
+
+#### sitemap
+[https://doc.xn--xnq.com/sitemap.xml](https://doc.xn--xnq.com/sitemap.xml)
 
 ### Search console
 https://search.google.com/search-console?resource_id=sc-domain%3Adoc.xn--xnq.com
