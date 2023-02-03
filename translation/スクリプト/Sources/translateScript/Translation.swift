@@ -44,11 +44,11 @@ enum 🗺️Language: String, Codable, CaseIterable {
     case ロシア語 = "RU"
     case 中国語_簡体字 = "ZH" //中国
     case ウクライナ語 = "UK"
+    case 韓国語 = "KO"//"ko"
     // * * *
     case 日本語 = "JA"
     // * * *
     //case アラビア語 = "ar-SA"
-    //case 韓国語 = "ko"
     //case 中国語_繁体字 = "zh-Hant" //台湾
     
     var htmlTag: String {
@@ -63,6 +63,7 @@ enum 🗺️Language: String, Codable, CaseIterable {
             case .ロシア語: return "ru"
             case .中国語_簡体字: return "zh"
             case .ウクライナ語: return "uk"
+            case .韓国語: return "ko"
         }
     }
 }

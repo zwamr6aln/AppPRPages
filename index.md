@@ -19,6 +19,7 @@ FlipByBlink
 [ru](translation/FlipByBlink/ru.html)
 [uk](translation/FlipByBlink/uk.html)
 [zh](translation/FlipByBlink/zh.html)
+[ko](translation/FlipByBlink/ko.html)
 
 * * *
 
@@ -40,6 +41,7 @@ Plain将棋盤
 [ru](translation/Plain将棋盤/ru.html)
 [uk](translation/Plain将棋盤/uk.html)
 [zh](translation/Plain将棋盤/zh.html)
+[ko](translation/Plain将棋盤/ko.html)
 
 * * *
 
@@ -61,6 +63,7 @@ FadeInAlarm
 [ru](translation/FadeInAlarm/ru.html)
 [uk](translation/FadeInAlarm/uk.html)
 [zh](translation/FadeInAlarm/zh.html)
+[ko](translation/FadeInAlarm/ko.html)
 
 * * *
 
@@ -85,6 +88,7 @@ iPhoneにプリインストールされている「ヘルスケア」アプリ�
 [ru](translation/TapWeight/ru.html)
 [uk](translation/TapWeight/uk.html)
 [zh](translation/TapWeight/zh.html)
+[ko](translation/TapWeight/ko.html)
 
 * * *
 
@@ -109,6 +113,7 @@ iPhoneにプリインストールされている「ヘルスケア」アプリ�
 [ru](translation/TapTemperature/ru.html)
 [uk](translation/TapTemperature/uk.html)
 [zh](translation/TapTemperature/zh.html)
+[ko](translation/TapTemperature/ko.html)
 
 * * *
 
@@ -133,6 +138,7 @@ iPhoneにプリインストールされている「ヘルスケア」アプリ�
 [ru](translation/LockInNote/ru.html)
 [uk](translation/LockInNote/uk.html)
 [zh](translation/LockInNote/zh.html)
+[ko](translation/LockInNote/ko.html)
 
 * * *
 
@@ -157,3 +163,4 @@ iPhone/iPadのホーム画面やロック画面を暗記帳にするアプリ
 [ru](translation/MemorizeWidget/ru.html)
 [uk](translation/MemorizeWidget/uk.html)
 [zh](translation/MemorizeWidget/zh.html)
+[ko](translation/MemorizeWidget/ko.html)

@@ -41,6 +41,7 @@ struct 🄷TMLTemplate {
         <link rel="alternate" hreflang="ru" href="https://doc.xn--xnq.com/translation/\(self.folderName)/ru.html"/>
         <link rel="alternate" hreflang="zh" href="https://doc.xn--xnq.com/translation/\(self.folderName)/zh.html"/>
         <link rel="alternate" hreflang="uk" href="https://doc.xn--xnq.com/translation/\(self.folderName)/uk.html"/>
+        <link rel="alternate" hreflang="ko" href="https://doc.xn--xnq.com/translation/\(self.folderName)/ko.html"/>
         <link rel="alternate" hreflang="x-default" href="https://doc.xn--xnq.com/translation/\(self.folderName)/en.html"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>\(self.title)</title>
@@ -123,6 +124,7 @@ struct 🄷TMLTemplate {
         <a href="https://doc.xn--xnq.com/translation/\(self.folderName)/ru.html">Русский</a>
         <a href="https://doc.xn--xnq.com/translation/\(self.folderName)/zh.html">中文</a>
         <a href="https://doc.xn--xnq.com/translation/\(self.folderName)/uk.html">Українська</a>
+        <a href="https://doc.xn--xnq.com/translation/\(self.folderName)/ko.html">한국어</a>
         </body>
         </html>
         """
