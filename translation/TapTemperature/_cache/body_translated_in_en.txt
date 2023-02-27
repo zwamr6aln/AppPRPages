@@ -8,31 +8,31 @@ TapTemperature
 <p><img src="apple_health_badge.svg"></p>
 <p><img src="top1200w.png" width="600"></p>
 <h2 id="概要"> Overview</h2>
-<p> This is an application for registering body temperature data to the Apple "Health Care" application preinstalled on the iPhone as fast as possible (as a manual method).</p>
-<h3 id="想定ユーザー-ユースケース"> Intended Users / Use Cases</h3>
+<p> This is an application for iPhone/Apple Watch only.</p>
+<h3 id="想定ユーザー-ユースケース"> Intended users / use cases</h3>
 <ul>
 <li> Do not have a smart thermometer.</li>
-<li> Usually measure their body temperature (or basal body temperature) with a thermometer.</li>
-<li> Considering registering the measurement results manually in the "Health Care" application immediately after each measurement with a regular thermometer.</li>
+<li> Usually measure body temperature (or basal body temperature) with a thermometer.</li>
+<li> Considering registering the measurement results manually in the "Health Care" app immediately after each measurement with a regular thermometer.</li>
 </ul>
 <h3 id="オプション"> Option</h3>
 <ul>
-<li> Unit<ul>
+<li> Basal body temperature mode</li>
+<li> Two decimal places mode</li>
+<li> Function to automatically complete the process by just entering numbers</li>
+</ul>
+<h3 id="その他"> Others</h3>
+<ul>
+<li> Can also be used with Apple Watch</li>
+<li> One-tap launch of the Apple "Health Care" app from within this app</li>
+<li> One-tap cancellation of registration immediately after data registration</li>
+<li> Units<ul>
 <li> ℃ Celsius</li>
 <li> ℉ Fahrenheit</li>
 </ul></li>
-<li> Basal body temperature mode</li>
-<li> Two decimal places mode</li>
-<li> Automatic completion function by simply entering numbers</li>
-</ul>
-<h3 id="その他"> Other</h3>
-<ul>
-<li> One-tap launch of Apple "Health Care" app from within this app</li>
-<li> History function in the device for operation check and simple backup</li>
-<li> One-tap cancellation of registration immediately after data registration</li>
 </ul>
 <h3 id="注意"> Caution</h3>
-<p> This app cannot read, view, or manage past data in the "Health Care" app. This app is intended only for data registration to the "Health Care" app. Please check the registered data on the "Health Care" application.</p>
+<p> This app cannot read, view, or manage past data in the "Health Care" app. This app is only for registering data to the "Health Care" app. Please check the registered data on the "Health Care" application.</p>
 <h3 id="背景"> Background</h3>
 <p> People frequently measure their body temperature (or basal body temperature) using thermometers on a daily basis. Many iPhone users register their body temperature (or basal body temperature) data on the "Health Care" application.</p>
 <p> The best solution is to use a smart thermometer that works with the "Health Care" app and automatically saves the data, but they can be expensive and inaccessible. Although it is possible to manually register data in the "Health Care" app, unfortunately the "Health Care" app is not designed for routine manual registration of measurement data. Therefore, manually entering data that occurs continuously on a daily basis, such as body temperature measurements, can be a very time-consuming and stressful experience.</p>
@@ -45,7 +45,7 @@ TapTemperature
 <p> Hide ads (160 yen)</p>
 <h3 id="プラットフォーム"> Platform</h3>
 <ul>
-<li> iOS 16.0 or later</li>
+<li> iOS 15.0 or later</li>
 </ul>
 <h3 id="サポート言語"> Supported Languages</h3>
 <ul>
