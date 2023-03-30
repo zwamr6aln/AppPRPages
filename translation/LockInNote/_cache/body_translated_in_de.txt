@@ -1,16 +1,17 @@
 <h1 translate="no">
 LockInNote
 </h1>
-<p><em>Eine App für Notizen, die dem neuen iOS16 Lock Screen Widget Feature gewidmet ist, das im Herbst 2022 veröffentlicht wird!</em></p>
+<p><em>Notebook-Anwendung für die neue iOS 16 Lock Screen Widget-Funktion, die im Herbst 2022 veröffentlicht wird!</em></p>
 <p><img src="icon.png" width="80"></p>
 <p><a href="https://apps.apple.com/app/id1644879340" target="blank">
 <img src="appstore_badge.svg"> </a></p>
 <p><img src="top1200w.png" width="600"></p>
 <h2 id="概要"> Überblick.</h2>
-<p> Dies ist eine Notizen-App, die sich auf Sperrbildschirm-Widgets spezialisiert hat. Nur für das iPhone.</p>
-<p> Wenn Sie sich eine Notiz machen wollen, können Sie diese schnell auf dem Sperrbildschirm schreiben und die Notiz jederzeit auf dem Sperrbildschirm überprüfen!</p>
-<p> Das Design der Notiz auf dem Sperrbildschirm kann flexibel angepasst werden, so dass Sie es entsprechend Ihren verschiedenen Zwecken beim "Hinterlassen von Notizen" und "Anzeigen von Text auf dem Sperrbildschirm" einsetzen können.</p>
-<p> Durch Antippen des Widgets wird sofort die Tastatur zum Bearbeiten der Notiz aufgerufen.</p>
+<p> Dies ist eine Notizbuch-App für das Sperrbildschirm-Widget - eine App für iPhone/Apple Watch.</p>
+<p> Wenn Sie eine Notiz machen wollen, können Sie schnell eine Notiz auf dem Sperrbildschirm schreiben und die Notiz jederzeit auf dem Sperrbildschirm überprüfen!</p>
+<p> Funktioniert mit Apple Watch.</p>
+<p> Das Design der Notiz auf dem Sperrbildschirm kann flexibel angepasst werden, so dass Sie es für verschiedene Zwecke wie "Notizen hinterlassen" und "Text auf dem Sperrbildschirm anzeigen" einsetzen können.</p>
+<p> Durch Antippen des Widgets wird sofort die Tastatur zum Bearbeiten der Notiz geöffnet.</p>
 <p><img src="screenshot1_1200w.png" width="600"></p>
 <h3
 id="フォントのサイズやデザイン太さなどをカスタマイズ"> Passen Sie Schriftgröße, Design und Dicke an.</h3>
@@ -20,12 +21,12 @@ id="テキスト未入力時に分かりやすいアイコン"> Leicht verständ
 <p><img src="placeholder600w.png" width="240"></p>
 <h3 id="その他"> Sonstiges.</h3>
 <ul>
-<li> Text mit ShareSheet teilen</li>
-<li> Jedes URL-Schema aufrufen, das mit Text funktioniert</li>
+<li> Teilen Sie Text mit ShareSheet</li>
+<li> Rufen Sie jedes URL-Schema auf, das mit Text funktioniert</li>
 </ul>
 <p><img src="screenshot2_800w.png" width="300"></p>
 <h3 id="最新機種-iphone-14-pro-にオススメ"> Empfohlen für die neuesten iPhone 14 Pro Modelle!</h3>
-<p> Das iPhone 14 Pro mit Always On Display verwandelt Ihr iPhone in einen Notizblock für unterwegs.</p>
+<p> Das iPhone 14 Pro mit Always On Display verwandelt Ihr iPhone in Ihren nächsten Notizblock.</p>
 <blockquote>
 <p><img src="iphone14pro_alwaysondisplay.png" width="250"></p>
 <p><em>Zitat: https://www.apple.com/jp/iphone-14-pro/</em></p>
@@ -33,9 +34,9 @@ id="テキスト未入力時に分かりやすいアイコン"> Leicht verständ
 <hr />
 <h2 id="仕様"> Spezifikationen</h2>
 <h3 id="価格"> Preis</h3>
-<p> Unentgeltlich</p>
+<p> Kostenfrei</p>
 <h3 id="アプリ内課金"> In-App-Kauf</h3>
-<p> Anzeigen ausblenden (160 Yen)</p>
+<p> Werbung ausblenden (160 Yen)</p>
 <h3 id="プラットフォーム"> Plattformen</h3>
 <ul>
 <li> iOS 16.0 oder höher</li>

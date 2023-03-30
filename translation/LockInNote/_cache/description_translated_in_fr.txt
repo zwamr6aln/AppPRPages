@@ -1,1 +1,1 @@
-Application pour iPhone. Application de notes dédiée à la nouvelle fonctionnalité "widget d'écran de verrouillage" d'iOS 16, sortie à l'automne 2022.
+Application spécifique à l'iPhone / Apple Watch ; application de notes dédiée à la nouvelle fonctionnalité "widget d'écran de verrouillage" d'iOS 16, publiée à l'automne 2022.
