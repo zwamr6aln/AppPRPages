@@ -1,13 +1,13 @@
 <h1 translate="no">
 MemorizeWidget
 </h1>
-<p><em>Turn your iPhone/iPad home screen or lock screen into a memorandum book!</em></p>
+<p><em>Turn Your iPhone/iPad/Apple Watch/Mac into a Memory Book</em></p>
 <p><img src="icon.png" width="80"></p>
 <p><a href="https://apps.apple.com/app/id1644276262" target="blank">
 <img src="appstore_badge.svg"> </a></p>
 <p><img src="top1200w.png" width="600"></p>
 <h2 id="概要"> Overview</h2>
-<p> Display your memorandum book on your home screen or lock screen using the widget function. This is an application for iPhone and iPad.</p>
+<p> Display your memorandum book on your home screen or lock screen using the widget function. App for iPhone, iPad, Apple Watch, and Mac.</p>
 <ul>
 <li> Two modes: "stand-alone mode" and "random mode.</li>
 <li> In "Random Mode," the notes displayed change every 5 minutes</li>
@@ -15,14 +15,23 @@ MemorizeWidget
 <li> Memorandum data can be imported from text or files (csv, tsv, txt, etc.)</li>
 <li> Linkage with OS built-in dictionary</li>
 <li> Customizable search function</li>
+<li> Synchronize data between devices via iCloud</li>
 </ul>
 <p><img src="screenshot1200w.png" width="600"></p>
-<h3 id="オプション"> Optional</h3>
+<p> Optional</p>
 <ul>
-<li> Display "comment" as well as "title" of note on widget (only for home screen widget/lock screen rectangle widget)</li>
+<li> Display "comment" as well as "title" of notes on widgets (only for home screen widgets/lock screen rectangular widgets)</li>
+<li> Display of multiple notes</li>
 </ul>
-<h3 id="最新機種-iphone-14-pro-にオススメ"> Recommended for the latest iPhone 14 Pro model!</h3>
-<p> With the iPhone 14 Pro with Always On Display, you can check your notebook without touching your iPhone!</p>
+<p> Multi-platform support</p>
+<ul>
+<li> iPhone: Lock screen widget (iOS16 or later), Home screen widget</li>
+<li> iPad: Home screen widget</li>
+<li> Apple Watch: Complication</li>
+<li> Mac: Notification Center widget</li>
+</ul>
+<p> Recommended for the latest iPhone 14 Pro model!</p>
+<p> With the iPhone 14 Pro with Always On Display, you can check your notepad without touching your iPhone!</p>
 <blockquote>
 <p><img src="iphone14pro_alwaysondisplay.png" width="250"></p>
 <p><em>Quote: https://www.apple.com/jp/iphone-14-pro/</em></p>
@@ -37,6 +46,8 @@ MemorizeWidget
 <ul>
 <li> iOS 15.6 or later</li>
 <li> iPadOS 15.6 or later</li>
+<li> watchOS 9.0 or later</li>
+<li> macOS 12.4 or later</li>
 </ul>
 <h3 id="サポート言語"> Supported Languages</h3>
 <ul>

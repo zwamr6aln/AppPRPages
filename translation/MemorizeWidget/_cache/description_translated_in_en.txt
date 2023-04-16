@@ -1,1 +1,1 @@
-An app that allows widgets placed on the home screen or lock screen to be used as a memorization book. This is an app for iPhone and iPad.
+An app that allows you to turn a widget into a memorization book. App for iPhone, iPad, Apple Watch, and Mac.
