@@ -146,7 +146,7 @@ iPhoneにプリインストールされている「ヘルスケア」アプリ�
 --------------
 <img src="MemorizeWidget/icon.png" width="50">
 
-iPhone/iPadのホーム画面やロック画面を暗記帳にするアプリ
+ホーム画面やロック画面を暗記帳にするアプリ
 
 [製品情報を読む](MemorizeWidget)
 
