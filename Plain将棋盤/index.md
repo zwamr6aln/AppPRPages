@@ -1,7 +1,7 @@
 ---
 layout: product
 folderName: Plain将棋盤
-description: SharePlayにも対応した最もプレーンな将棋盤アプリ。iPhone、iPad用アプリ。
+description: SharePlayにも対応した最もプレーンな将棋盤アプリ。iPhone、iPad、Mac、Apple Watch、Apple TV向けアプリ。
 ---
 
 Plain将棋盤
@@ -18,18 +18,21 @@ _SharePlayにも対応した最もプレーンな将棋盤アプリ_
 
 概要
 ----------
-駒を自由に動かせるただの将棋盤です。iPhone、iPad用アプリ。
+駒を自由に動かせるただの将棋盤です。iPhone、iPad、Mac、Apple Watch、Apple TV向けアプリ。
 
 iOSの標準デザインに沿ったシンプルな将棋盤アプリです。
 
-文字のサイズや太さなどはOSシステム設定に適応して変わります。
-
 任意の駒を消したり増やしたりことも出来ます。
+
+文字の「大きさ」や「太さ」、「セリフ体」などをカスタマイズ出来ます。
 
 駒を英語表記に変えられます。
 
 盤面をテキストデータとして書き出したり読み込んだり出来ます。
 
+局面はiCloudによって端末間で同期されます。
+
+### SharePlay
 SharePlayに対応しています。
 
 FaceTimeしながら友達と将棋盤を囲むことが出来ます。
@@ -57,7 +60,7 @@ SharePlay機能では「2人でシンプルに対局する」だけでなく、�
 ☖
 ```
 
-<img src="menu1200w.png" width="500">
+<img src="menu1200w.png" width="600">
 
 * * *
 
