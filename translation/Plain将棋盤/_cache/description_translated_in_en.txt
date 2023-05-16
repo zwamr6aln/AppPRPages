@@ -1,1 +1,1 @@
-This is just a Shogi board where you can move the pieces freely.
+This app is for iPhone, iPad, Mac, Apple Watch, Apple TV, and SharePlay.

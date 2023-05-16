@@ -7,18 +7,20 @@ Plain将棋盤 / Plain Shogi Board
 <img src="appstore_badge.svg"> </a></p>
 <p><img src="top1200w.png" width="600"></p>
 <h2 id="概要"> Überblick.</h2>
-<p> Dies ist nur ein einfaches Shogi-Brett mit Figuren, die frei bewegt werden können. iPhone und iPad App.</p>
+<p> Nur ein Shogi-Brett, auf dem Sie die Figuren frei bewegen können. App für iPhone, iPad, Mac, Apple Watch und Apple TV.</p>
 <p> Eine einfache Shogi-Brett-App, die dem Standard-iOS-Design folgt.</p>
-<p> Die Größe und Dicke des Textes hängt von den Systemeinstellungen des Betriebssystems ab.</p>
-<p> Sie können jedes Stück löschen oder hinzufügen.</p>
-<p> Die Stücke können in englische Notation umgeschrieben werden.</p>
-<p> Exportieren und importieren Sie die Tafel als Textdaten.</p>
+<p> Du kannst jede Figur löschen oder hinzufügen.</p>
+<p> Sie können die Größe, Dicke und den Serifenstil des Textes anpassen.</p>
+<p> Sie können die Figuren in englische Notation umwandeln.</p>
+<p> Exportieren und importieren Sie das Brett als Textdaten.</p>
+<p> Spiele werden zwischen Geräten über iCloud synchronisiert.</p>
+<h3 id="shareplay"> SharePlay</h3>
 <p> SharePlay wird unterstützt.</p>
-<p> Du kannst Shogi mit deinen Freunden über FaceTime spielen.</p>
-<p> Die SharePlay-Funktion ist für verschiedene Anwendungsfälle gedacht, z. B. für das Lösen von Tsume-Shogi mit einer großen Gruppe von Freunden sowie für "ein einfaches Spiel zwischen zwei Spielern".</p>
+<p> Sie können Shogi mit Ihren Freunden über FaceTime spielen.</p>
+<p> Die SharePlay-Funktion ist für verschiedene Anwendungsfälle gedacht, z. B. für das Lösen von Tsume-Shogi mit einer großen Gruppe von Freunden oder für ein einfaches Spiel zwischen zwei Personen".</p>
 <p><img src="screenshot1200w.png" width="600"></p>
-<h3 id="テキスト書き出し読み込み"> Text exportieren/importieren</h3>
-<p> Die Tafel kann als Textdaten exportiert und importiert werden.</p>
+<h3 id="テキスト書き出し読み込み"> Textexport/-import</h3>
+<p> Das Spielbrett kann als Textdaten exportiert und importiert werden.</p>
 <div translate="no">
 <pre><code>☗角͙
 －－－－－－－－－
@@ -34,17 +36,17 @@ Plain将棋盤 / Plain Shogi Board
 －－－－－－－－－
 ☖</code></pre>
 </div>
-<p><img src="menu1200w.png" width="500"></p>
+<p><img src="menu1200w.png" width="600"></p>
 <hr />
 <h2 id="仕様"> Spezifikationen</h2>
 <h3 id="価格"> Preis</h3>
-<p> Unentgeltlich</p>
+<p> Kostenfrei</p>
 <h3 id="アプリ内課金"> In-App-Kauf</h3>
-<p> Anzeigen ausblenden (¥320)</p>
+<p> Werbung ausblenden (¥320)</p>
 <h3 id="プラットフォーム"> Plattformen</h3>
 <ul>
 <li> iOS 15.4 oder höher</li>
-<li> iPadOS 15.4 oder höher</li>
+<li> iPadOS 15.4 oder neuer</li>
 </ul>
 <h3 id="サポート言語"> Unterstützte Sprachen</h3>
 <ul>
