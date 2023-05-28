@@ -86,14 +86,14 @@ _時間をかけて少しずつ音が大きくなるアラームアプリ_
 仕様
 -------
 ### 価格
-160円
+無料
 
 ### アプリ内課金
-なし
+Hide AD: 1ドル
 
 ### プラットフォーム
-- iOS 15.2 以降
-- iPadOS 15.2 以降
+- iOS 16.0 以降
+- iPadOS 16.0 以降
 
 <a href="https://apps.apple.com/app/id1465336070" target="blank">
   <img src="qr-code.jpg" width="160">
