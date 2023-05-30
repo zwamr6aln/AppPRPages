@@ -7,9 +7,10 @@ FadeInAlarm
 <img src="appstore_badge.svg"> </a></p>
 <p><img src="top1200w.png" width="600"></p>
 <h2 id="概要"> Überblick.</h2>
-<p> Diese App für iPhone und iPad informiert Sie über die Uhrzeit Ihrer Wahl, indem sie die Lautstärke des Alarms mit der Zeit allmählich erhöht, während normale Alarm-Apps einen lauten Warnton mit mehr Nachdruck ertönen lassen.</p>
+<p> Diese App für iPhone und iPad informiert Sie über die Uhrzeit Ihrer Wahl, indem sie die Lautstärke des Alarms im Laufe der Zeit allmählich erhöht, während normale Alarm-Apps einen lauten, schnellen Warnton ausgeben.</p>
 <p> Sie können die Lautstärke des Alarms schrittweise über einen längeren Zeitraum erhöhen, von einigen zehn Sekunden bis zu einigen zehn Minuten.</p>
 <p> Dies empfiehlt sich für Personen, die durch den Klang eines normalen Alarms gestresst werden, oder für Personen, die nicht zu einem bestimmten Zeitpunkt, sondern in einem groben Zeitintervall auf eine bestimmte Uhrzeit aufmerksam gemacht werden möchten.</p>
+<p><img src="screenshot1200w.png" width="600"></p>
 <h3 id="オプション"> Optionen.</h3>
 <h4 id="フェードイン時間"> Einblendzeit</h4>
 <ul>
@@ -58,7 +59,7 @@ FadeInAlarm
 <h4
 id="音源は自分で用意する必要がある"><em>Sie müssen Ihre eigenen Tonquellen vorbereiten!</em></h4>
 <p> Bitte importieren Sie selbst erstellte Sounddateien (z.B. mp3).</p>
-<p> Die Tondaten sind in der App zu Testzwecken voreingestellt.</p>
+<p> Die Sounddaten sind in der App zu Testzwecken voreingestellt.</p>
 <h4
 id="普通のアラームアプリより不便な面あります"><em>Diese App ist unbequemer als normale Wecker-Apps!</em></h4>
 <p> Aus verschiedenen Gründen unterscheidet sich diese App von normalen Wecker-Apps dadurch, dass sie keinen Alarm auslösen kann, wenn die App selbst gar nicht läuft. Sie müssen die App vorher starten.</p>

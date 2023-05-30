@@ -10,6 +10,7 @@ FadeInAlarm
 <p> Aplikasi untuk iPhone dan iPad ini memungkinkan Anda mengetahui waktu pilihan Anda dengan meningkatkan volume alarm secara bertahap dari waktu ke waktu, sedangkan aplikasi alarm normal membunyikan nada peringatan yang keras dan cepat.</p>
 <p> Anda dapat meningkatkan volume alarm secara bertahap dalam jangka waktu yang lebih lama, dari puluhan detik hingga puluhan menit.</p>
 <p> Hal ini direkomendasikan bagi orang yang stres karena bunyi alarm biasa, atau bagi orang yang ingin mengetahui waktu yang ditentukan pada interval waktu yang kasar, bukan pada saat tertentu.</p>
+<p><img src="screenshot1200w.png" width="600"></p>
 <h3 id="オプション"> Opsi.</h3>
 <h4 id="フェードイン時間"> Waktu memudar</h4>
 <ul>
@@ -67,7 +68,7 @@ id="普通のアラームアプリより不便な面あります"><em>Aplikasi i
 <p> Anda dapat mengunci perangkat Anda atau menggunakan aplikasi lain saat dalam keadaan siaga, tetapi Anda harus sedikit berhati-hati agar tidak mengganggu keadaan siaga alarm.</p>
 <ul>
 <li> Status siaga alarm akan terputus dalam situasi berikut ini <ul>
-<li> Situasi saat Anda menonton video berdurasi panjang di aplikasi lain.</li>
+<li> Situasi di mana Anda menonton video berdurasi panjang di aplikasi lain.</li>
 <li> Situasi saat lagu diputar di aplikasi musik perangkat</li>
 </ul></li>
 <li> Status siaga alarm diinterupsi dalam situasi berikut ini, tetapi akan dilanjutkan secara otomatis <ul>
