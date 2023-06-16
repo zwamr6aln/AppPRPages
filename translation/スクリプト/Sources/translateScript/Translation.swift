@@ -6,8 +6,10 @@ enum 🅃ranslation {
     static func translate(_ ⓣext: String, in ⓛang: 🗺️Language) async throws -> String {
         let ⓤrl = "https://api-free.deepl.com/v2/translate"
         var ⓡequest = URLRequest(url: URL(string: ⓤrl)!)
-        ⓡequest.setValue("DeepL-Auth-Key " + Self.🔑authKey, forHTTPHeaderField: "Authorization")
-        ⓡequest.setValue("application/x-www-form-urlencoded", forHTTPHeaderField: "Content-Type")
+        ⓡequest.setValue("DeepL-Auth-Key " + Self.🔑authKey,
+                         forHTTPHeaderField: "Authorization")
+        ⓡequest.setValue("application/x-www-form-urlencoded",
+                         forHTTPHeaderField: "Content-Type")
         ⓡequest.httpMethod = "POST"
         
         var ⓑody = "text="
@@ -17,9 +19,12 @@ enum 🅃ranslation {
         ⓡequest.httpBody = ⓑody.data(using: .utf8)
         
         let (ⓓata, ⓡesponse) = try await URLSession.shared.data(for: ⓡequest)
-        if (ⓡesponse as? HTTPURLResponse)?.statusCode != 200 { throw Self.🚨Error.failed(#function) }
+        if (ⓡesponse as? HTTPURLResponse)?.statusCode != 200 {
+            throw Self.🚨Error.failed(#function)
+        }
         
-        let ⓜodel = try JSONDecoder().decode(Self.🄰PIResponseModel.self, from: ⓓata)
+        let ⓜodel = try JSONDecoder().decode(Self.🄰PIResponseModel.self,
+                                             from: ⓓata)
         return ⓜodel.translations.first!.text
     }
     
