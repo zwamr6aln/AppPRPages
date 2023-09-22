@@ -1,1 +1,1 @@
-Aplicação específica para iPhone / Apple Watch; nota aplicação dedicada à nova funcionalidade 'lock screen widget' do iOS 16, lançada no Outono de 2022.
+Aplicação específica para iPhone / Apple Watch; aplicação de notas dedicada à nova funcionalidade "widget do ecrã de bloqueio" do iOS 16, lançado no outono de 2022.
