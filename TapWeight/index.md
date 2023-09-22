@@ -1,7 +1,7 @@
 ---
 layout: product
 folderName: TapWeight
-description: iPhoneにプリインストールされているApple「ヘルスケア」アプリに体重データを(手動としては)最速で登録するためのアプリです。iPhone/Apple Watch専用アプリ。
+description: iPhone/iPadにプリインストールされているApple「ヘルスケア」アプリに体重データを(手動としては)最速で登録するためのアプリです。iPhone/iPad/Apple Watch専用アプリ。
 ---
 
 TapWeight 体重登録
@@ -20,7 +20,7 @@ _「ヘルスケア」アプリに体重データを最速で登録しよう_
 
 概要
 --------------------
-iPhoneにプリインストールされているApple「ヘルスケア」アプリに体重データを(手動としては)最速で登録するためのアプリです。iPhone/Apple Watch専用アプリ。
+iPhone/iPadにプリインストールされているApple「ヘルスケア」アプリに体重データを(手動としては)最速で登録するためのアプリです。iPhone/iPad/Apple Watch専用アプリ。
 
 
 想定ユーザー / ユースケース
@@ -75,9 +75,6 @@ iPhoneにプリインストールされているApple「ヘルスケア」アプ
 
 ### アプリ内課金
 広告を非表示にする(160円)
-
-### プラットフォーム
-- iOS 15.0 以降
 
 ### サポート言語
 - 全て

@@ -1,12 +1,12 @@
 ---
 layout: product
 folderName: LockInNote
-description: iPhone/Apple Watch用アプリ。2022年秋リリースされたiOS16の新機能「ロック画面ウィジェット」に特化したノートアプリ
+description: iPhone/iPad/Mac/Apple Watch用アプリ。ウィジェットに特化したノートアプリ
 ---
 
 ロックノート LockInNote
 =======================
-_2022年秋リリースされたiOS16の新機能「ロック画面ウィジェット」に特化したノートアプリ！_
+_ウィジェットに特化したノートアプリ！_
 
 <img src="icon.png" width="80">
 
@@ -18,7 +18,7 @@ _2022年秋リリースされたiOS16の新機能「ロック画面ウィジェ�
 
 概要
 ----------
-ロック画面ウィジェットに特化したノートアプリです。iPhone/Apple Watch専用アプリ。
+ウィジェットに特化したノートアプリです。iPhone/iPad/Mac/Apple Watch専用アプリ。
 
 メモを取リたい時にロック画面上からすぐにメモを書き出して、そのメモはロック画面上でいつでも気軽に確認することができます！
 
@@ -44,12 +44,11 @@ Apple Watchのコンプリケーションでもノートを確認できます。
 
 <img src="screenshot2_800w.png" width="300">
 
-### 最新機種 iPhone 14 Pro にオススメ！
-常時表示ディスプレイが搭載された iPhone 14 Pro だと、iPhoneが最も身近なメモ帳に変身。
-
-> <img src="iphone14pro_alwaysondisplay.png" width="250">
->
-> _引用: https://www.apple.com/jp/iphone-14-pro/_
+### マルチプラットフォーム対応
+- iPhone: ホーム画面、ロック画面、スタンバイ(iOS 17)
+- iPad: ホーム画面、ロック画面(iPadOS 17)
+- Mac: 通知センター、デスクトップ(macOS 14)
+- Apple Watch: コンプリケーション、スマートスタック(watchOS 10)
 
 * * *
 
@@ -64,10 +63,6 @@ Apple Watchのコンプリケーションでもノートを確認できます。
 ### プラットフォーム
 - iOS 16.0 以降
 - iPadOS 16.0 以降
-
-### サポート言語
-- 日本語
-- 英語
 
 <a href="https://apps.apple.com/app/id1644879340" target="blank">
   <img src="qr-code.jpg" width="160">
